@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 import json
 
 from sqlalchemy import create_engine, Column, Integer, DateTime
