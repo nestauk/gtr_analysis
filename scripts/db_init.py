@@ -110,8 +110,8 @@ def main():
         end = Column(DateTime)
 
     # Connection string using config options
-    conn_str = 'postgresql:{}//{}:@{}:{}/{}'.format(passw,
-                                                    user,
+    conn_str = 'postgresql://{}:{}@{}:{}/{}'.format(user,
+                                                    passw,
                                                     host,
                                                     port,
                                                     database)
