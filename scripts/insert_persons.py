@@ -47,7 +47,6 @@ meta = sqlalchemy.MetaData(engine, schema="gtr")
 SessionFactory = sessionmaker(engine)
 
 
-
 def main():
     s = gtr.Persons()
     session = SessionFactory()
@@ -73,6 +72,7 @@ def main():
 
     print('Adding persons to DB')
     [session.add(person) for person in user_list]
+    print("Commiting to DB")
     session.commit()
 
 if __name__ == '__main__':
