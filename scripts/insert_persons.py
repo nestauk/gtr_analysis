@@ -22,10 +22,12 @@ database = conf['database']
 
 
 @ratelim.patient(20, 5)  # 4 calls per second
-def add_persons_to_list(data, user_list):
+def add_persons_to_list(data):
     """Loops through JSON and appends a new Person object to a list
     based on their key.
     """
+
+    user_list = []
     for person in data:
         user_list.append(Person(created=dt.fromtimestamp(
             person["created"] / 1000),  # Java timestamp
@@ -34,6 +36,10 @@ def add_persons_to_list(data, user_list):
             id=person['id'],
             links=person["links"],
             surname=string.capwords(person["surname"])))
+
+    session = SessionFactory()
+    [session.add(person) for person in user_list]
+    session.commit()
 
 connection_string = 'postgresql://{}:{}@{}:{}/{}'.format(user,
                                                          passw,
@@ -49,8 +55,6 @@ SessionFactory = sessionmaker(engine)
 
 def main():
     s = gtr.Persons()
-    session = SessionFactory()
-    user_list = []
 
     print("Gathering persons")
     # Get the first page of results
@@ -60,20 +64,15 @@ def main():
     print('Pages to read = {}'.format(total_pages))
     print('Reading page 1')
     data = results.json()["person"]               # Save the returned JSON to data
-    add_persons_to_list(data, user_list)          # Add the returned data to the DB
+    add_persons_to_list(data)          # Add the returned data to the DB
 
     page = 2
     while page <= total_pages:
+        print('Reading page {}'.format(page))
         results = s.persons("", s=100, p=page)
         data = results.json()["person"]
-        add_persons_to_list(data, user_list)
+        add_persons_to_list(data)
         page += 1
-        print('Reading page {}'.format(page))
-
-    print('Adding persons to DB')
-    [session.add(person) for person in user_list]
-    print("Commiting to DB")
-    session.commit()
 
 if __name__ == '__main__':
     main()
