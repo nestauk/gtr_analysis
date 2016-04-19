@@ -45,10 +45,11 @@ class Project(Base):
     lead_org_dpt = Column(Text)
     links = (Column(JSONB))
     potential_impact = Column(Text)
-    researchActivities = Column(JSONB)
+    research_activities = Column(JSONB)
     research_subjects = Column(JSONB)
     research_topics = Column(JSONB)
     status = Column(Text)
+    tech_abstracts = Column(Text)
     title = Column(Text)
 
 
