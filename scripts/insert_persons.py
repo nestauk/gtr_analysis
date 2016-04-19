@@ -21,7 +21,7 @@ schema = conf['schema']
 database = conf['database']
 
 
-@ratelim.patient(20, 5)  # 4 calls per second
+@ratelim.patient(10, 10)  # One call every second
 def add_persons_to_list(data):
     """Loops through JSON and appends a new Person object to a list
     based on their key.
@@ -55,6 +55,10 @@ SessionFactory = sessionmaker(engine)
 
 def main():
     s = gtr.Persons()
+    user_agent_string = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) \
+                         AppleWebKit/600.3.18 (KHTML, like Gecko) \
+                         Version/8.0.3 Safari/600.3.18')
+    s.session.headers.update({'User-Agent': user_agent_string})
 
     print("Gathering persons")
     # Get the first page of results
