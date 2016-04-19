@@ -35,22 +35,22 @@ class Project(Base):
     __tablename__ = 'projects'
     __table_args__ = {"schema": schema}
     pkey = Column(Integer, primary_key=True, autoincrement=True)
-    abstract_text = Column(Text)
+    abstract_texts = Column(Text)
     created = Column(DateTime)
-    grant_cat = Column(Text)
+    grant_cats = Column(Text)
     href = Column(Text)
     health_categories = Column(JSONB)
     id = Column(Text, unique=True)
     identifiers = Column(JSONB)
-    lead_org_dpt = Column(Text)
+    lead_org_dpts = Column(Text)
     links = (Column(JSONB))
-    potential_impact = Column(Text)
+    potential_impacts = Column(Text)
     research_activities = Column(JSONB)
     research_subjects = Column(JSONB)
     research_topics = Column(JSONB)
     status = Column(Text)
     tech_abstracts = Column(Text)
-    title = Column(Text)
+    titles = Column(Text)
 
 
 # Table specifications
