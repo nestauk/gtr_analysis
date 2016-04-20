@@ -52,12 +52,17 @@ def add_pubs_to_list(data):
     pubs_list = []
 
     for pub in data:
+        try:
+            published_date = dt.fromtimestamp(pub.get('datePublished') / 1000)
+        except TypeError:
+            published_date = None
+
         pubs_list.append(Publication(
             abstract_text=pub.get('abstractText'),
             author=pub.get('author'),
             chapter_title=pub.get('chapterTitle'),
             created=dt.fromtimestamp(pub.get('created') / 1000),
-            published_date=pub.get('datePublished'),
+            published_date=published_date,
             doi=pub.get('doi'),
             href=pub.get('href'),
             id=pub.get('id'),
@@ -101,7 +106,7 @@ def main():
 
     # Save current apge number to temp file
     with open('temp', 'w') as f:
-        f.write(1)
+        f.write('1')
 
     # Get the first page of results
     # using max items per page
@@ -115,7 +120,7 @@ def main():
     page = 2
     while page <= total_pages:
         with open('temp', 'w') as f:
-            f.write(page)
+            f.write(str(page))
         print('Reading page {}'.format(page))
         results = s.publications("", s=100, p=page)
         data = results.json()["publication"]
