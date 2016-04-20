@@ -75,7 +75,7 @@ class Publication(Base):
     pkey = Column(Integer, primary_key=True, autoincrement=True)
     abstract_text = Column(Text)
     author = Column(Text)
-    chapterTitle = Column(Text)
+    chapter_title = Column(Text)
     created = Column(DateTime)
     published_date = Column(DateTime)
     doi = Column(Text)
