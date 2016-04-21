@@ -23,13 +23,14 @@
 # SOFTWARE.
 
 import gtr
-import ratelim
 import sqlalchemy
 
 from datetime import datetime as dt
 from db_init import Publication, get_configs
 from os import remove
+from random import randint
 from sqlalchemy.orm import sessionmaker
+from time import sleep
 
 # Read in user configs
 conf = get_configs()
@@ -43,7 +44,6 @@ schema = conf['schema']
 database = conf['database']
 
 
-@ratelim.greedy(10, 10)  # One call every second
 def add_pubs_to_list(data):
     """Loops through JSON and appends a new Publication object to a list
     based on its key.
@@ -110,14 +110,15 @@ def main():
 
     # Get the first page of results
     # using max items per page
-    results = s.publications("", s=100, p=1)
+    page = 1
+    results = s.publications("", s=100, p=page)
     total_pages = results.json()["totalPages"]    # Total number of pages to loop through
     print('Pages to read = {}'.format(total_pages))
-    print('Reading page 1')
+    print('Reading page {}'.format(page))
     data = results.json()["publication"]               # Save the returned JSON to data
     add_pubs_to_list(data)                         # Add the returned data to the DB
 
-    page = 2
+    page += 1
     while page <= total_pages:
         with open('temp', 'w') as f:
             f.write(str(page))
@@ -125,6 +126,7 @@ def main():
         results = s.publications("", s=100, p=page)
         data = results.json()["publication"]
         add_pubs_to_list(data)
+        sleep(randint(1, 7))
         page += 1
 
     remove('temp')
