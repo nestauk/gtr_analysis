@@ -27,7 +27,10 @@ import sqlalchemy
 
 from datetime import datetime as dt
 from db_init import Organisation, get_configs
+from os import remove
+from random import randint
 from sqlalchemy.orm import sessionmaker
+from time import sleep
 
 # Read in user configs
 conf = get_configs()
@@ -41,7 +44,7 @@ schema = conf['schema']
 database = conf['database']
 
 
-def add_organisations_to_list(data):
+def add_orgs_to_list(data):
     """Loops through JSON and appends a new Organisation object to a list
     based on its key.
     """
@@ -51,14 +54,14 @@ def add_organisations_to_list(data):
     for org in data:
         orgs_list.append(Organisation(
             addresses=org.get('addresses'),
-            created=org.get('created'),
+            created=dt.fromtimestamp(org.get('created') / 1000),
             href=org.get('href'),
             id=org.get('id'),
             links=org.get('links'),
             name=org.get('name')))
 
     session = SessionFactory()
-    [session.add(org) for org in org_list]
+    [session.add(org) for org in orgs_list]
     session.commit()
 
 connection_string = 'postgresql://{}:{}@{}:{}/{}'.format(user,
@@ -74,7 +77,7 @@ SessionFactory = sessionmaker(engine)
 
 
 def main():
-    s = gtr.Publications()
+    s = gtr.Organisations()
     user_agent_string = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) \
                          AppleWebKit/600.3.18 (KHTML, like Gecko) \
                          Version/8.0.3 Safari/600.3.18')
