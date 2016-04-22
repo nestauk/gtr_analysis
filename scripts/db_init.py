@@ -114,6 +114,7 @@ class Fund(Base):
     __table_args__ = {"schema": schema}
     pkey = Column(Integer, primary_key=True, autoincrement=True)
     category = Column(Text)
+    created=Column(DateTime)
     href = Column(Text, unique=True)
     links = Column(JSONB)
     value_pounds = Column(Integer)
