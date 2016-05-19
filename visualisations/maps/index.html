@@ -1,0 +1,331 @@
+<html>
+	<head>
+		<title>Arloesiadur - GtR Data Pilot</title>
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+		<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+		<script src="http://d3js.org/topojson.v1.min.js" type="text/javascript"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/1.1.1/chroma.min.js" type="text/javascript"></script>
+		<script src="./js/topojson.js"></script>
+		<style>
+			*{
+		margin:0;
+		padding:0;
+		-webkit-box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		box-sizing:border-box;
+		}
+		body,html {
+		height:100%;
+		}
+		body{
+		color:#333;
+		font-family:sans-serif;
+		}
+		#map{ height: 100% }
+		.info {
+			padding: 6px 8px;
+			font: 14px/16px Arial, Helvetica, sans-serif;
+			background: white;
+			background: rgba(255,255,255,0.8);
+			box-shadow: 0 0 15px rgba(0,0,0,0.2);
+			border-radius: 5px;
+		}
+		.info h4 {
+			margin: 0 0 5px;
+			color: #777;
+		}
+		</style>
+	</head>
+	<body>
+		<div id="map"></div>
+		<script>
+		function getUniId() {
+			var this_uni = $("#uniList").val();
+			var uni_id;
+			$.ajax({
+			  url: 'js/unis.js',
+			  async: false,
+			  dataType: 'json',
+			  success: function (json) {
+		    	for(var i=0; i<json.length; i++) {
+						if(json[i].name == this_uni) {
+							uni_id = (json[i].id);
+						}
+					}
+		  	}
+			});
+			return uni_id;
+		}
+
+		var data;
+
+		function getData() {
+			var this_topic = $("#topicsList").val();
+			var uni_id = getUniId();
+			var data;
+			$.ajax({
+				url: topicsToFiles(this_topic),
+				async: false,
+				dataType: 'json',
+				success: function(json) {
+					data = json[uni_id];
+				}
+			});
+			return data;
+		}
+
+		function maxData() {
+			var max = -Infinity, x;
+			for(x in data) {
+		    if( data[x] > max) {
+		    	max = data[x];
+		    }
+			}
+			return max;
+		}
+
+		function getCount(name, data) {
+			var count = 0;
+			if (data.hasOwnProperty(name)) {
+				count = data[name];
+			}
+			return count;
+		}
+
+		// get the count of number of project collabs
+		function topicsToFiles(topic){
+			var topics_to_files = {
+				'All Subject Topics': 'uni_collab_counts.json',
+				'Arts and Humanities': 'uni_arts_and_humanities_collab_counts.json',
+				'Engineering and Technology': 'uni_engineering_and_technology_collab_counts.json',
+				'Environmental Sciences': 'uni_environmental_sciences_collab_counts.json',
+				'Life Sciences': 'uni_life_sciences_collab_counts.json',
+				'Mathematics and Computing': 'uni_mathematics_and_computing_collab_counts.json',
+				'Mixed': 'uni_mixed_collab_counts.json',
+				'Physics': 'uni_physics_collab_counts.json',
+				'Social Sciences': 'uni_social_sciences_collab_counts.json'
+			};
+
+			return 'js/' + topics_to_files[$("#topicsList").val()];
+		}
+
+		// add topojson to the map
+		function addTopoData(topoData){
+			topoLayer.addData(topoData);
+			data = getData();
+			topoLayer.eachLayer(handleLayer);
+			topoLayer.addTo(map);
+		}
+
+		// Handle mouseover mouseout events
+		function handleLayer(layer){
+			count = getCount(layer.feature.id, data);
+			if (count > 0) {
+				cs = colorScale();
+				fillColor = cs(count).hex();
+				fillOpacity = 0.9,
+				weight = 1
+			} else {
+				fillColor ='black';
+				fillOpacity = 0.1;
+				weight = 0;
+			}
+			layer.setStyle({
+				fillColor : fillColor,
+				fillOpacity: 1,
+				color:'#555',
+				weight: weight,
+				opacity:0.25,
+				fillOpacity: fillOpacity,
+				smoothFactor: 0
+			});
+			layer.on({
+				mouseover: enterLayer,
+				mouseout: leaveLayer
+			});
+			layer.feature.properties.data = count;
+		}
+
+		function enterLayer(){
+			info.update(this.feature.properties);
+			this.bringToFront();
+			this.setStyle({
+				opacity: 1
+			});
+		}
+
+		function leaveLayer(){
+			info.update();
+			this.bringToBack();
+			this.setStyle({
+				opacity:0.5
+			});
+		}
+
+		function updateUnis(name) {
+			data = getData();
+			topoLayer.eachLayer(handleLayer);
+			info.selected();
+		}
+
+		function topicChanged() {
+			data = getData();
+			topoLayer.eachLayer(handleLayer);
+			info.selected();
+		}
+
+		function colorScale() {
+			return chroma
+			.scale(chroma.brewer.YlOrRd)
+			.domain([0,30]);
+		}
+
+		var topics = [
+			'All Subject Topics',
+			'Arts and Humanities',
+			'Engineering and Technology',
+			'Environmental Sciences',
+			'Life Sciences',
+			'Mathematics and Computing',
+			'Mixed',
+			'Physics',
+			'Social Sciences'];
+
+		// initialize the map
+		var map = L.map('map').setView([55, -3], 6);
+
+		// load a tile layer
+		L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png',
+		{
+			attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="http://cartodb.com/attributions">CartoDB</a>, CartoDB <a href ="http://cartodb.com/attributions">attributions</a>',
+				maxZoom: 20,
+					minZoom: 0
+						}).addTo(map);
+
+		// LAD TopoJson
+		var topoLayer = new L.TopoJSON();
+
+		// Get the json
+		$.getJSON('js/topo_lad_simplified.json')
+			.done(addTopoData);
+		var info = L.control();
+		info.onAdd = function (map) {
+			this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+			this.update();
+			return this._div;
+		};
+
+		// method that we will use to update the control based on feature properties passed
+		info.update = function (props) {
+			this._div.innerHTML = '<h4>Collaboration index</h4>' +  (props ?
+				'<b>' + props.data + '</b><br />' + props.LAD13NM + ''
+				: 'Select a University');
+			};
+
+		info.selected = function () {
+			this._div.innerHTML = '<h4>Collaboration index</h4>' +
+				'Hover over a local authority';
+			};
+
+		info.addTo(map);
+
+		// TODO - Add custom legend that redraws on map update
+
+		// Custom drop down
+		var UniControl = L.Control.extend({
+			initialize: function (name, options) {
+    		L.Util.setOptions(this, options);
+  		},
+			//function to be called when the control is added to the map
+    	onAdd: function (map) {
+				//create the control container with a
+				//class name
+	      var container = L.DomUtil.create('div', 'uni-control');
+
+				//create a list of available police force names and ids
+				//using the data.police.uk api Forces method inside the
+				//'force' global variable.
+				unis = [];
+
+				//jquery method to retrieve JSON object
+				$.getJSON("./js/unis.js",
+					function(data) {
+						//create the htmlString that will form the
+						//innerHTML of the uni dropdown
+						var htmlString = '<select id=uniList ' +
+							'onchange="updateUnis()">';
+
+						//create individual uni <option> tags within the
+						//<select> tag
+						$.each(data, function(i, item){
+		        	unis[i] = item;
+							htmlString = htmlString + '<option>' +
+								unis[i].name + '</option>';
+				    });
+
+						//close the select tag
+						htmlString += '</select>';
+
+						//update the dropdown list innerHTML
+						//with the list of forces
+						container.innerHTML = htmlString;
+
+						//allow a user to select a single option
+		    		container.firstChild.onmousedown =
+							container.firstChild.ondblclick =
+								L.DomEvent.stopPropagation;
+
+					});
+
+					return container;
+				}
+			});
+
+			//extend the L.Control class to create a custom drop down box
+			// initially with simple placeholder text
+			var TopicControl = L.Control.extend({
+				initialize: function (name, options, placeholder) {
+			        L.Util.setOptions(this, options);
+				},
+				//once added to the map div, carry out the following
+				onAdd: function (map) {
+					//create the control container with a particular
+					//class name
+	        var container = L.DomUtil.create(
+						'div', 'topic_control'
+					);
+					//add the following to the innerHTML
+					var htmlString = '<select id="topicsList" ' +
+						'onchange="topicChanged()">';
+
+					for (var i=0; i < topics.length; i++) {
+							htmlString = htmlString + '<option>' +
+								topics[i] + '</option>';
+			    }
+
+					//close the select tag
+					htmlString += '</select>';
+
+					//make this the div's innerHTML
+					container.innerHTML = htmlString;
+
+					//allow a user to select a single option
+					container.firstChild.onmousedown =
+						container.firstChild.ondblclick =
+							L.DomEvent.stopPropagation;
+
+					return container;
+				}
+			});
+
+			map.addControl(new UniControl('uniList',
+				{position: 'topright'}
+			));
+
+			map.addControl(new TopicControl('topicList',
+				{position: 'topright'}
+			));
+			</script>
+		</body>
+</html>
