@@ -1,0 +1,4593 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d3" />
+  <key attr.name="topic_classified" attr.type="string" for="edge" id="d2" />
+  <key attr.name="country" attr.type="string" for="node" id="d1" />
+  <key attr.name="lad" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="BBSRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Global Vision International GVI">
+      <data key="d0">St Albans</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Diageo plc">
+      <data key="d0">Brent</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Cairn Energy Ltd">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="INEOS Technologies UK">
+      <data key="d0">Halton</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="NERC Centre for Ecology and Hydrology">
+      <data key="d0">South Oxfordshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Nagoya University">
+      <data key="d0">Hackney</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="NavStar Geomatics Ltd">
+      <data key="d0">Monmouthshire</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="WorleyParsons UK">
+      <data key="d0">Hounslow</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="BG Group">
+      <data key="d0">Wokingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Edinburgh Napier University">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Air Photo Services">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Hampshire Advisory and Tech Services">
+      <data key="d0">Poole</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="East Solent Coastal Partnership">
+      <data key="d0">Havant</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Royal Com Ancient &amp; Historical Monuments">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Lancaster University">
+      <data key="d0">Lancaster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Ingegneria dei Sistemi UK Ltd">
+      <data key="d0">Fareham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Department for Communities and Local Gov">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of St Andrews">
+      <data key="d0">Fife</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Royal Botanic Gardens Edinburgh">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Hadley Centre">
+      <data key="d0">Exeter</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Snowdonia National Park Authority">
+      <data key="d0">Gwynedd</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Air Products Plc">
+      <data key="d0">Elmbridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Aquatic Coleoptera Conservation Trust">
+      <data key="d0">South Ayrshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Exeter">
+      <data key="d0">Exeter</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="D1 Oils plc">
+      <data key="d0">Middlesbrough</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="JBA Consulting">
+      <data key="d0">Craven</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Association of Rivers Trusts">
+      <data key="d0">Cornwall</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="United Utilities Water Ltd">
+      <data key="d0">Warrington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Southampton">
+      <data key="d0">Southampton</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The James Hutton Institute">
+      <data key="d0">Perth and Kinross</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Glasgow">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Marine Climate Change Impacts Part MCCIP">
+      <data key="d0">Waveney</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="ConocoPhillips UK Limited">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Howden Group Technology">
+      <data key="d0">Renfrewshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Biomathematics and Statistics Scotland">
+      <data key="d0">Perth and Kinross</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="National Farmers Union">
+      <data key="d0">Warwick</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="ConocoPhillips Company">
+      <data key="d0">Ashford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Loughborough University">
+      <data key="d0">Charnwood</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Allergy UK">
+      <data key="d0">Bexley</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Rivers and Fisheries Trusts of Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The National Trust">
+      <data key="d0">St Edmundsbury</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Institute of Field Archaeologists">
+      <data key="d0">Wokingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Bangor University">
+      <data key="d0">Gwynedd</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="South Downs National Park Authority">
+      <data key="d0">Chichester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="NERC British Antarctic Survey">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Universities Env Research Cen">
+      <data key="d0">South Lanarkshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="B P International Ltd">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Warwick">
+      <data key="d0">Coventry</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Costain Oil &amp; Gas Ltd">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Game and Wildlife Conservation Trust">
+      <data key="d0">New Forest</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Liverpool">
+      <data key="d0">Liverpool</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Oil and Gas UK">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Zoological Soc London Inst of Zoology">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="J Sainsbury Plc">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Marine Scotland Science">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="MCM Consulting">
+      <data key="d0">Bristol, City of</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="E.ON New Build and Technology Ltd">
+      <data key="d0">Rushcliffe</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Macaulay Institute">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Reach Coal Seam Gas Limited">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Manweb Plc">
+      <data key="d0">Cheshire West and Chester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish and Southern Energy SSE plc">
+      <data key="d0">Perth and Kinross</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Aberdeen">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="AstraZeneca plc">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Network Rail Ltd">
+      <data key="d0">Islington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Sussex">
+      <data key="d0">Brighton and Hove</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Natural Environment Research Council">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Dundee">
+      <data key="d0">Dundee City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="EPSRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Anglia Ruskin University">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Seaweb/Seafood Choices">
+      <data key="d0">Southwark</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Portsmouth">
+      <data key="d0">Portsmouth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="English Heritage">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Plymouth">
+      <data key="d0">Plymouth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Industrial Tomography Systems plc">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Rescobie Loch Development Association">
+      <data key="d0">Dundee City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Natural England">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="SRUC">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Young's Seafood">
+      <data key="d0">Wandsworth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="E.On UK Plc">
+      <data key="d0">Coventry</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Cromarty Firth Fishery Board">
+      <data key="d0">Highland</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="UK Astronomy Technology Centre">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Birkbeck College">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="NERC Radiocarbon Laboratory">
+      <data key="d0">South Lanarkshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Newcastle University">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Environment Agency">
+      <data key="d0">South Gloucestershire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Scottish Government">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Conwy County Borough Council">
+      <data key="d0">Conwy</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Sea Fish Industry Authority">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Asthma UK">
+      <data key="d0">Hackney</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Waitrose">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="CMCL Innovations">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Wessex Water Services Ltd">
+      <data key="d0">Bath and North East Somerset</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Cabinet Office">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Syngenta Ltd">
+      <data key="d0">Bracknell Forest</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Birmingham">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Stirling">
+      <data key="d0">Stirling</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="New Forest District Council">
+      <data key="d0">East Dunbartonshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="OTT Hydrometry Ltd">
+      <data key="d0">Newark and Sherwood</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Chemviron Carbon Ltd">
+      <data key="d0">Oldham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="UKCCS Research Centre">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="National Museum Wales">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Coffey Geotechnics">
+      <data key="d0">Reading</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="PQ Corporation">
+      <data key="d0">Warrington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Ocean Explorer Centre">
+      <data key="d0">Argyll and Bute</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University College London">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="UK Water Industry Research Ltd">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Open University">
+      <data key="d0">Milton Keynes</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Soil Association">
+      <data key="d0">Bristol, City of</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Reading">
+      <data key="d0">Wokingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="IEA Greenhouse Gas R &amp; D Programme">
+      <data key="d0">Cheltenham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Power Generation. Ltd">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Leicester City Council">
+      <data key="d0">Leicester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="BP Exploration Operating Company Ltd">
+      <data key="d0">Spelthorne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Selex-Galileo">
+      <data key="d0">Basildon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="British Dragonfly Society">
+      <data key="d0">Telford and Wrekin</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="SSE Energy Supply Limited UK">
+      <data key="d0">Reading</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Statoil (UK) Ltd">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Strathclyde">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Oxford">
+      <data key="d0">Oxford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Conservation Grade">
+      <data key="d0">Central Bedfordshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Southern Coastal Group">
+      <data key="d0">Havant</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Aberystwyth University">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="ADAS">
+      <data key="d0">Wolverhampton</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of East Anglia">
+      <data key="d0">Norwich</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Clyde Space">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="BEAR Scotland">
+      <data key="d0">Perth and Kinross</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Technology Strategy Board">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Glamorgan">
+      <data key="d0">Rhondda Cynon Taf</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="National Centre for Atmospheric Science">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="People's Trust for Endangered Species">
+      <data key="d0">Wandsworth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Forestry Commission Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="RCAHMS">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Sea Mammal Research Unit">
+      <data key="d0">Fife</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Thomas Swan and Co Ltd">
+      <data key="d0">County Durham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Royal Observatory (Edinburgh) Trust (The">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="British Lung Foundation">
+      <data key="d0">Islington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="British Trust for Ornithology">
+      <data key="d0">Breckland</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="ESRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Environment Protection Agency">
+      <data key="d0">Stirling</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Sheffield">
+      <data key="d0">Sheffield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Doosan Babcock Power Systems">
+      <data key="d0">Renfrewshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Centrica Plc">
+      <data key="d0">Spelthorne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Woodland Trust">
+      <data key="d0">South Kesteven</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="United Nations Environment Programe UNEP">
+      <data key="d0">Guildford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The University of Manchester">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Butterfly Conservation">
+      <data key="d0">Purbeck</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Purolite International Ltd">
+      <data key="d0">Rhondda Cynon Taf</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Imperial College London">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Leeds">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Water UK">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="National Grid PLC">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Process Systems Enterprises Ltd">
+      <data key="d0">Hammersmith and Fulham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Kaya Consulting Limited">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Botanical Society of the British Isles">
+      <data key="d0">Harrogate</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Petroleum Systems International (UK)">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Historic Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Royal Holloway, University of London">
+      <data key="d0">Runnymede</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="National Physical Laboratory NPL">
+      <data key="d0">Richmond upon Thames</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Transport Scotland">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Nu Instruments Ltd">
+      <data key="d0">Wrexham</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Met Office">
+      <data key="d0">Exeter</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="RSPB">
+      <data key="d0">Central Bedfordshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Norfolk Biodiversity Information Service">
+      <data key="d0">Norwich</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Leicester Resilience Forum">
+      <data key="d0">Blaby</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Nottingham">
+      <data key="d0">Nottingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Osprey Corporation Limited">
+      <data key="d0">Canterbury</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scott Wilson Ltd">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Julich Research Centre">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Atkins Global">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Scottish Natural Heritage">
+      <data key="d0">Perth and Kinross</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Perth and Kinross Heritage Trust">
+      <data key="d0">Perth and Kinross</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Rothiemurchus Estate">
+      <data key="d0">Highland</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Crop Protection Association">
+      <data key="d0">Peterborough</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Cambridge">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Water">
+      <data key="d0">Fife</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="NERC British Geological Survey">
+      <data key="d0">Rushcliffe</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Dart Energy (Europe) Ltd">
+      <data key="d0">Stirling</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Chemostrat Ltd">
+      <data key="d0">Powys</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Bristol">
+      <data key="d0">Bristol, City of</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Pisces Conservation Ltd">
+      <data key="d0">New Forest</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="House of Lords">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Heriot-Watt University">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="New Forests">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Linking Env and Farming LEAF">
+      <data key="d0">Warwick</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Food &amp; Environment Research Agency -FERA">
+      <data key="d0">Ryedale</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Fishermen's Federation">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Scottish Power Energy Networks">
+      <data key="d0">North Lanarkshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Cuadrilla Resources Ltd">
+      <data key="d0">Lichfield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="National Oceanography Centre">
+      <data key="d0">Southampton</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Michael Payne Environmental Consultants">
+      <data key="d0">King's Lynn and West Norfolk</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Utsi Electronics Ltd">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="JBA Trust">
+      <data key="d0">Craven</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Shellfish Association of Great Britain">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Ofgem">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Plymouth Marine Laboratory">
+      <data key="d0">Plymouth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Overseas Development Institute ODI">
+      <data key="d0">Southwark</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="BMT Group Ltd (UK)">
+      <data key="d0">Richmond upon Thames</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Cardiff University">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="BioClimate Research &amp; Development">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Environmental Research Institute">
+      <data key="d0">Highland</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Broads Authority">
+      <data key="d0">Norwich</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Dwr Cymru Welsh Water">
+      <data key="d0">Caerphilly</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Swansea University">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Forestry Commission Research Agency">
+      <data key="d0">Midlothian</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Tees Valley Unlimited">
+      <data key="d0">Stockton-on-Tees</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Countryside Council for Wales">
+      <data key="d0">Gwynedd</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Durham University">
+      <data key="d0">County Durham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Joint Nature Conservation Committee">
+      <data key="d0">Peterborough</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Department of Energy and Climate Change">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="AOC Archaeology Group">
+      <data key="d0">Midlothian</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of York">
+      <data key="d0">York</data>
+      <data key="d1">England</data>
+    </node>
+    <edge source="BBSRC" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BBSRC" target="University of East Anglia">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Global Vision International GVI" target="Zoological Soc London Inst of Zoology">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Global Vision International GVI" target="Swansea University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Global Vision International GVI" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Diageo plc" target="Air Products Plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Diageo plc" target="INEOS Technologies UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Diageo plc" target="Scottish Environment Protection Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Diageo plc" target="Tees Valley Unlimited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Diageo plc" target="Howden Group Technology">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cairn Energy Ltd" target="Lancaster University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cairn Energy Ltd" target="Birkbeck College">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cairn Energy Ltd" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cairn Energy Ltd" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="INEOS Technologies UK" target="Howden Group Technology">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="INEOS Technologies UK" target="Scottish Environment Protection Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="INEOS Technologies UK" target="Tees Valley Unlimited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="INEOS Technologies UK" target="Air Products Plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="Aberystwyth University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="Macaulay Institute">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="The Woodland Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="Open University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="Botanical Society of the British Isles">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="Butterfly Conservation">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="NERC Radiocarbon Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="Snowdonia National Park Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="People's Trust for Endangered Species">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="OTT Hydrometry Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="University of York">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="Joint Nature Conservation Committee">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="UK Astronomy Technology Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="Sea Mammal Research Unit">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="University of Glasgow">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Centre for Ecology and Hydrology" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Nagoya University" target="National Centre for Atmospheric Science">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nagoya University" target="New Forests">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nagoya University" target="Lancaster University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nagoya University" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NavStar Geomatics Ltd" target="Transport Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NavStar Geomatics Ltd" target="Newcastle University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NavStar Geomatics Ltd" target="BEAR Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="WorleyParsons UK" target="Doosan Babcock Power Systems">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="WorleyParsons UK" target="University of Nottingham">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="WorleyParsons UK" target="E.ON New Build and Technology Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="WorleyParsons UK" target="PQ Corporation">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BG Group" target="Scottish and Southern Energy SSE plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BG Group" target="Scottish Power Generation. Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BG Group" target="Hampshire Advisory and Tech Services">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BG Group" target="Doosan Babcock Power Systems">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BG Group" target="Howden Group Technology">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Edinburgh Napier University" target="University of Southampton">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Edinburgh Napier University" target="University of Portsmouth">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Photo Services" target="Institute of Field Archaeologists">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Photo Services" target="RCAHMS">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Photo Services" target="Historic Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Photo Services" target="EPSRC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Photo Services" target="Ingegneria dei Sistemi UK Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Photo Services" target="Royal Com Ancient &amp; Historical Monuments">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Photo Services" target="Perth and Kinross Heritage Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Photo Services" target="Utsi Electronics Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Photo Services" target="University of Leeds">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Photo Services" target="Scott Wilson Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Photo Services" target="University of Birmingham">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hampshire Advisory and Tech Services" target="Scottish and Southern Energy SSE plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hampshire Advisory and Tech Services" target="Scottish Power Generation. Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hampshire Advisory and Tech Services" target="Doosan Babcock Power Systems">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hampshire Advisory and Tech Services" target="Howden Group Technology">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="East Solent Coastal Partnership" target="University of Southampton">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="East Solent Coastal Partnership" target="Southern Coastal Group">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="East Solent Coastal Partnership" target="New Forest District Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="East Solent Coastal Partnership" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Com Ancient &amp; Historical Monuments" target="RCAHMS">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Com Ancient &amp; Historical Monuments" target="University of Birmingham">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Com Ancient &amp; Historical Monuments" target="Historic Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Com Ancient &amp; Historical Monuments" target="Utsi Electronics Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Com Ancient &amp; Historical Monuments" target="Ingegneria dei Sistemi UK Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Com Ancient &amp; Historical Monuments" target="Perth and Kinross Heritage Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Com Ancient &amp; Historical Monuments" target="EPSRC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Com Ancient &amp; Historical Monuments" target="University of Leeds">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Com Ancient &amp; Historical Monuments" target="Scott Wilson Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Com Ancient &amp; Historical Monuments" target="Institute of Field Archaeologists">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Scottish Power Energy Networks">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Scottish Universities Env Research Cen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="University of St Andrews">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Macaulay Institute">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="ADAS">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="NERC Radiocarbon Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="National Centre for Atmospheric Science">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="University of Exeter">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="New Forests">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Birkbeck College">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Anglia Ruskin University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="NERC British Antarctic Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="University of East Anglia">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ingegneria dei Sistemi UK Ltd" target="Historic Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ingegneria dei Sistemi UK Ltd" target="Perth and Kinross Heritage Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ingegneria dei Sistemi UK Ltd" target="Institute of Field Archaeologists">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ingegneria dei Sistemi UK Ltd" target="EPSRC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ingegneria dei Sistemi UK Ltd" target="Scott Wilson Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ingegneria dei Sistemi UK Ltd" target="University of Birmingham">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ingegneria dei Sistemi UK Ltd" target="University of Leeds">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ingegneria dei Sistemi UK Ltd" target="RCAHMS">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ingegneria dei Sistemi UK Ltd" target="Utsi Electronics Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Communities and Local Gov" target="The Cabinet Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Communities and Local Gov" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Communities and Local Gov" target="Loughborough University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Communities and Local Gov" target="Leicester Resilience Forum">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Communities and Local Gov" target="Atkins Global">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Communities and Local Gov" target="Transport Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Communities and Local Gov" target="Leicester City Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Communities and Local Gov" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="AOC Archaeology Group">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Manweb Plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Natural England">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Aberystwyth University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Swansea University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of East Anglia">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Oxford">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of York">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Centrica Plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Scottish Universities Env Research Cen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="NERC Radiocarbon Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">3</data>
+    </edge>
+    <edge source="University of St Andrews" target="Rothiemurchus Estate">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="English Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="British Lung Foundation">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="The Scottish Government">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="Allergy UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="Bangor University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="Natural England">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="Food &amp; Environment Research Agency -FERA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="ESRC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="Natural Environment Research Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="Asthma UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="The Woodland Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="Game and Wildlife Conservation Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Botanic Gardens Edinburgh" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hadley Centre" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hadley Centre" target="Marine Climate Change Impacts Part MCCIP">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hadley Centre" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hadley Centre" target="University of Southampton">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hadley Centre" target="Marine Scotland Science">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hadley Centre" target="Overseas Development Institute ODI">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hadley Centre" target="Scottish Ocean Explorer Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hadley Centre" target="University of Reading">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snowdonia National Park Authority" target="Aberystwyth University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snowdonia National Park Authority" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snowdonia National Park Authority" target="UK Astronomy Technology Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snowdonia National Park Authority" target="OTT Hydrometry Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snowdonia National Park Authority" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Products Plc" target="Process Systems Enterprises Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Products Plc" target="Scottish Environment Protection Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Products Plc" target="Howden Group Technology">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Products Plc" target="Osprey Corporation Limited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Products Plc" target="Tees Valley Unlimited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Air Products Plc" target="MCM Consulting">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air Products Plc" target="Heriot-Watt University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aquatic Coleoptera Conservation Trust" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aquatic Coleoptera Conservation Trust" target="University of Stirling">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Aquatic Coleoptera Conservation Trust" target="Norfolk Biodiversity Information Service">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aquatic Coleoptera Conservation Trust" target="Natural England">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aquatic Coleoptera Conservation Trust" target="Broads Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aquatic Coleoptera Conservation Trust" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aquatic Coleoptera Conservation Trust" target="Scottish Environment Protection Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aquatic Coleoptera Conservation Trust" target="British Dragonfly Society">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aquatic Coleoptera Conservation Trust" target="University College London">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="ESRC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Scottish Universities Env Research Cen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Natural Environment Research Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="NERC Radiocarbon Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Exeter" target="University of Leeds">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="The Scottish Government">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="D1 Oils plc" target="University of Leeds">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="D1 Oils plc" target="BioClimate Research &amp; Development">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="D1 Oils plc" target="United Nations Environment Programe UNEP">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="JBA Consulting" target="United Utilities Water Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="JBA Consulting" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="JBA Consulting" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="JBA Consulting" target="Natural England">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Association of Rivers Trusts" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Association of Rivers Trusts" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Association of Rivers Trusts" target="Natural England">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Association of Rivers Trusts" target="Wessex Water Services Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Association of Rivers Trusts" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Association of Rivers Trusts" target="Scottish Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Association of Rivers Trusts" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Association of Rivers Trusts" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="United Utilities Water Ltd" target="Natural England">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="United Utilities Water Ltd" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="United Utilities Water Ltd" target="Newcastle University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="United Utilities Water Ltd" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Southampton" target="Overseas Development Institute ODI">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Southern Coastal Group">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="New Forest District Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="University of Dundee">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="University of Oxford">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Marine Climate Change Impacts Part MCCIP">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="University of East Anglia">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Scottish Ocean Explorer Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Marine Scotland Science">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="University of Reading">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Plymouth Marine Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The James Hutton Institute" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The James Hutton Institute" target="EPSRC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Liverpool">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="Marine Scotland Science">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Strathclyde">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of East Anglia">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Cromarty Firth Fishery Board">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="The Scottish Government">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Climate Change Impacts Part MCCIP" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Climate Change Impacts Part MCCIP" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Climate Change Impacts Part MCCIP" target="Marine Scotland Science">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Climate Change Impacts Part MCCIP" target="Overseas Development Institute ODI">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Climate Change Impacts Part MCCIP" target="Scottish Ocean Explorer Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Climate Change Impacts Part MCCIP" target="University of Reading">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ConocoPhillips UK Limited" target="Petroleum Systems International (UK)">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ConocoPhillips UK Limited" target="Chemostrat Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ConocoPhillips UK Limited" target="Durham University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ConocoPhillips UK Limited" target="Statoil (UK) Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Thomas Swan and Co Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Costain Oil &amp; Gas Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Industrial Tomography Systems plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Doosan Babcock Power Systems">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Scottish Power Generation. Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="CMCL Innovations">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Purolite International Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Cardiff University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Chemviron Carbon Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Tees Valley Unlimited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Process Systems Enterprises Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Ofgem">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Scottish and Southern Energy SSE plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="SSE Energy Supply Limited UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howden Group Technology" target="Scottish Environment Protection Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Biomathematics and Statistics Scotland" target="Technology Strategy Board">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Biomathematics and Statistics Scotland" target="The National Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Biomathematics and Statistics Scotland" target="Conwy County Borough Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Biomathematics and Statistics Scotland" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Biomathematics and Statistics Scotland" target="Syngenta Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Biomathematics and Statistics Scotland" target="Natural England">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Biomathematics and Statistics Scotland" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Biomathematics and Statistics Scotland" target="Bangor University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Biomathematics and Statistics Scotland" target="Michael Payne Environmental Consultants">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Biomathematics and Statistics Scotland" target="Shellfish Association of Great Britain">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Biomathematics and Statistics Scotland" target="University of Reading">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="J Sainsbury Plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Conservation Grade">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="The National Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="South Downs National Park Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Young's Seafood">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Waitrose">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Seaweb/Seafood Choices">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Soil Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Sea Fish Industry Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Farmers Union" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ConocoPhillips Company" target="BP Exploration Operating Company Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ConocoPhillips Company" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Leicester City Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Leicester Resilience Forum">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="The Cabinet Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Atkins Global">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Allergy UK" target="Food &amp; Environment Research Agency -FERA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Allergy UK" target="British Lung Foundation">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Allergy UK" target="Bangor University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Allergy UK" target="Asthma UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rivers and Fisheries Trusts of Scotland" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="J Sainsbury Plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Waitrose">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Michael Payne Environmental Consultants">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="South Downs National Park Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Soil Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Shellfish Association of Great Britain">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="The National Trust" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Conservation Grade">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Technology Strategy Board">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Conwy County Borough Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Young's Seafood">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Syngenta Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Natural England">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Seaweb/Seafood Choices">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Sea Fish Industry Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="University of Reading">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute of Field Archaeologists" target="RCAHMS">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute of Field Archaeologists" target="Historic Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute of Field Archaeologists" target="Utsi Electronics Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute of Field Archaeologists" target="Perth and Kinross Heritage Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute of Field Archaeologists" target="EPSRC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute of Field Archaeologists" target="University of Leeds">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute of Field Archaeologists" target="Scott Wilson Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute of Field Archaeologists" target="University of Birmingham">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Scottish Universities Env Research Cen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Bangor University" target="ESRC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Natural Environment Research Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Marine Scotland Science">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Food &amp; Environment Research Agency -FERA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Nu Instruments Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="British Lung Foundation">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Pisces Conservation Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="The Scottish Government">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Asthma UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="J Sainsbury Plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Waitrose">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Soil Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Conservation Grade">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Young's Seafood">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Seaweb/Seafood Choices">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="Sea Fish Industry Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="South Downs National Park Authority" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC British Antarctic Survey" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC British Antarctic Survey" target="Scottish Universities Env Research Cen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC British Antarctic Survey" target="University of Sheffield">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC British Antarctic Survey" target="NERC Radiocarbon Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NERC British Antarctic Survey" target="Durham University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC British Antarctic Survey" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Universities Env Research Cen" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Universities Env Research Cen" target="The University of Manchester">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Universities Env Research Cen" target="Scottish Universities Env Research Cen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Universities Env Research Cen" target="NERC Radiocarbon Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Scottish Universities Env Research Cen" target="University of Leeds">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Scottish Universities Env Research Cen" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Universities Env Research Cen" target="Durham University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Universities Env Research Cen" target="Nu Instruments Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="B P International Ltd" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="B P International Ltd" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Warwick" target="Environmental Research Institute">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Costain Oil &amp; Gas Ltd" target="SSE Energy Supply Limited UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Costain Oil &amp; Gas Ltd" target="Industrial Tomography Systems plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Costain Oil &amp; Gas Ltd" target="Cardiff University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Game and Wildlife Conservation Trust" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Game and Wildlife Conservation Trust" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Game and Wildlife Conservation Trust" target="The Woodland Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Liverpool" target="Marine Scotland Science">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Liverpool" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Liverpool" target="University of Liverpool">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Liverpool" target="University of Oxford">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Oil and Gas UK" target="Scottish Fishermen's Federation">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oil and Gas UK" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oil and Gas UK" target="Marine Scotland Science">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Zoological Soc London Inst of Zoology" target="Swansea University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Zoological Soc London Inst of Zoology" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Conservation Grade">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Young's Seafood">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Waitrose">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Seaweb/Seafood Choices">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Soil Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Sea Fish Industry Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="J Sainsbury Plc" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="Scottish Fishermen's Federation">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="Overseas Development Institute ODI">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="Cromarty Firth Fishery Board">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="Scottish Ocean Explorer Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="University of Strathclyde">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="Pisces Conservation Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Scotland Science" target="University of Reading">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MCM Consulting" target="Process Systems Enterprises Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MCM Consulting" target="Osprey Corporation Limited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MCM Consulting" target="Heriot-Watt University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MCM Consulting" target="Tees Valley Unlimited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="E.ON New Build and Technology Ltd" target="PQ Corporation">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="E.ON New Build and Technology Ltd" target="Doosan Babcock Power Systems">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="E.ON New Build and Technology Ltd" target="University of Nottingham">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Macaulay Institute" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Macaulay Institute" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Macaulay Institute" target="Open University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Macaulay Institute" target="ADAS">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Macaulay Institute" target="NERC Radiocarbon Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Macaulay Institute" target="University of Aberdeen">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Macaulay Institute" target="Anglia Ruskin University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Macaulay Institute" target="University of East Anglia">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Macaulay Institute" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Macaulay Institute" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Reach Coal Seam Gas Limited" target="Cuadrilla Resources Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Reach Coal Seam Gas Limited" target="The Scottish Government">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Reach Coal Seam Gas Limited" target="Dart Energy (Europe) Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Manweb Plc" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Manweb Plc" target="Centrica Plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Manweb Plc" target="University of Sheffield">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Manweb Plc" target="Natural England">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Manweb Plc" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Manweb Plc" target="English Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish and Southern Energy SSE plc" target="Scottish Power Generation. Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish and Southern Energy SSE plc" target="Doosan Babcock Power Systems">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish and Southern Energy SSE plc" target="UKCCS Research Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="NERC Radiocarbon Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="National Centre for Atmospheric Science">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="University of Stirling">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="University of Sheffield">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="New Forests">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="Birkbeck College">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="BP Exploration Operating Company Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="Swansea University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="Durham University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="Royal Holloway, University of London">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="AstraZeneca plc" target="University of Nottingham">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="AstraZeneca plc" target="Heriot-Watt University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Network Rail Ltd" target="Coffey Geotechnics">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Network Rail Ltd" target="Transport Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Network Rail Ltd" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="University of Sheffield">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="NERC Radiocarbon Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Sussex" target="Heriot-Watt University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="ESRC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">7</data>
+    </edge>
+    <edge source="University of Dundee" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Transport Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="University of East Anglia">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Plymouth Marine Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="Utsi Electronics Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="Scott Wilson Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="Perth and Kinross Heritage Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="RCAHMS">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Anglia Ruskin University" target="University of East Anglia">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Anglia Ruskin University" target="ADAS">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="Conservation Grade">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="Young's Seafood">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="Waitrose">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="Soil Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="Sea Fish Industry Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Seaweb/Seafood Choices" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="Natural England">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="Centrica Plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Plymouth" target="NERC Radiocarbon Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Industrial Tomography Systems plc" target="SSE Energy Supply Limited UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Industrial Tomography Systems plc" target="Cardiff University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rescobie Loch Development Association" target="UK Water Industry Research Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rescobie Loch Development Association" target="University of Stirling">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rescobie Loch Development Association" target="Scottish Environment Protection Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Scottish Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Wessex Water Services Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Syngenta Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Broads Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="The Woodland Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Michael Payne Environmental Consultants">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Natural England" target="Norfolk Biodiversity Information Service">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Scottish Environment Protection Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Natural England" target="University College London">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Shellfish Association of Great Britain">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="British Dragonfly Society">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Centrica Plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="Conwy County Borough Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural England" target="University of Reading">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SRUC" target="The Scottish Government">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SRUC" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SRUC" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SRUC" target="University of Oxford">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SRUC" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="Conservation Grade">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="Waitrose">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="Soil Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Young's Seafood" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="E.On UK Plc" target="Forestry Commission Research Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="E.On UK Plc" target="Scottish Power Generation. Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="E.On UK Plc" target="University of Leeds">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="E.On UK Plc" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="UK Astronomy Technology Centre" target="Aberystwyth University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="UK Astronomy Technology Centre" target="Environment Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="UK Astronomy Technology Centre" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="UK Astronomy Technology Centre" target="OTT Hydrometry Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Birkbeck College" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Birkbeck College" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="Aberystwyth University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="University of Stirling">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="University of Sheffield">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="The University of Manchester">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="Heriot-Watt University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="AOC Archaeology Group">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="Rothiemurchus Estate">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">3</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="University College London">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="Cardiff University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="Swansea University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NERC Radiocarbon Laboratory" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="BEAR Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="University of Reading">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Leicester City Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Waitrose">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Wessex Water Services Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="The Cabinet Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Leicester Resilience Forum">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Conservation Grade">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Syngenta Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Southern Coastal Group">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Aberystwyth University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="University of Stirling">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Environment Agency" target="Broads Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="New Forest District Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="OTT Hydrometry Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Environment Agency" target="Michael Payne Environmental Consultants">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Pisces Conservation Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Norfolk Biodiversity Information Service">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="University College London">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Atkins Global">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Shellfish Association of Great Britain">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="British Dragonfly Society">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Technology Strategy Board">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Transport Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Soil Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Conwy County Borough Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Sea Fish Industry Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Environment Agency" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Environment Agency" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Dart Energy (Europe) Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Cuadrilla Resources Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conwy County Borough Council" target="Technology Strategy Board">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conwy County Borough Council" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conwy County Borough Council" target="Syngenta Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conwy County Borough Council" target="Michael Payne Environmental Consultants">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conwy County Borough Council" target="Shellfish Association of Great Britain">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conwy County Borough Council" target="University of Reading">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Fish Industry Authority" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Fish Industry Authority" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Fish Industry Authority" target="Conservation Grade">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Fish Industry Authority" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Fish Industry Authority" target="Waitrose">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Fish Industry Authority" target="Soil Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Fish Industry Authority" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Fish Industry Authority" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Fish Industry Authority" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Fish Industry Authority" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Fish Industry Authority" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Asthma UK" target="Food &amp; Environment Research Agency -FERA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Asthma UK" target="British Lung Foundation">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Waitrose" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Waitrose" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Waitrose" target="Conservation Grade">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Waitrose" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Waitrose" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Waitrose" target="Soil Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Waitrose" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Waitrose" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Waitrose" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Waitrose" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="CMCL Innovations" target="Imperial College London">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CMCL Innovations" target="Process Systems Enterprises Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="CMCL Innovations" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="CMCL Innovations" target="Ofgem">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Wessex Water Services Ltd" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Wessex Water Services Ltd" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Wessex Water Services Ltd" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Wessex Water Services Ltd" target="Scottish Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Wessex Water Services Ltd" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Cabinet Office" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Cabinet Office" target="Leicester Resilience Forum">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Cabinet Office" target="Leicester City Council">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Cabinet Office" target="Atkins Global">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Cabinet Office" target="Transport Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="Michael Payne Environmental Consultants">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="Shellfish Association of Great Britain">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="University of Reading">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="Historic Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="Scott Wilson Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="University College London">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="University of East Anglia">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="Perth and Kinross Heritage Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="RCAHMS">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="University of Stirling">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="Broads Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Stirling" target="British Dragonfly Society">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Stirling" target="University College London">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Stirling" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Stirling" target="Norfolk Biodiversity Information Service">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Stirling" target="UK Water Industry Research Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="New Forest District Council" target="Southern Coastal Group">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="OTT Hydrometry Ltd" target="Aberystwyth University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="OTT Hydrometry Ltd" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Chemviron Carbon Ltd" target="Thomas Swan and Co Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Chemviron Carbon Ltd" target="Purolite International Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Conservation Grade">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Scottish Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="University of Sheffield">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="University of York">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Butterfly Conservation">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="University of Oxford">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Botanical Society of the British Isles">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Joint Nature Conservation Committee">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Soil Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museum Wales" target="University of Glamorgan">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museum Wales" target="Royal Observatory (Edinburgh) Trust (The">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Coffey Geotechnics" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Coffey Geotechnics" target="Transport Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="PQ Corporation" target="University of Nottingham">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="PQ Corporation" target="Doosan Babcock Power Systems">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Ocean Explorer Centre" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Ocean Explorer Centre" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Ocean Explorer Centre" target="Overseas Development Institute ODI">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Ocean Explorer Centre" target="University of Reading">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="Norfolk Biodiversity Information Service">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="Broads Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="British Dragonfly Society">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="University of East Anglia">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="Scottish Environment Protection Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="UK Water Industry Research Ltd" target="Scottish Environment Protection Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Soil Association" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Soil Association" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Soil Association" target="Conservation Grade">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Soil Association" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Soil Association" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Soil Association" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Soil Association" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Soil Association" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Reading" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Reading" target="Overseas Development Institute ODI">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Reading" target="Technology Strategy Board">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Reading" target="Michael Payne Environmental Consultants">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Reading" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Reading" target="Shellfish Association of Great Britain">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Reading" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="IEA Greenhouse Gas R &amp; D Programme" target="National Grid PLC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="IEA Greenhouse Gas R &amp; D Programme" target="Imperial College London">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="IEA Greenhouse Gas R &amp; D Programme" target="Scottish Power Generation. Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="IEA Greenhouse Gas R &amp; D Programme" target="Process Systems Enterprises Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Power Generation. Ltd" target="Forestry Commission Research Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Power Generation. Ltd" target="Doosan Babcock Power Systems">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Power Generation. Ltd" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Power Generation. Ltd" target="National Grid PLC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Power Generation. Ltd" target="Imperial College London">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Power Generation. Ltd" target="University of Leeds">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Power Generation. Ltd" target="Process Systems Enterprises Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leicester City Council" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leicester City Council" target="Leicester Resilience Forum">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leicester City Council" target="Atkins Global">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leicester City Council" target="Transport Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Selex-Galileo" target="Clyde Space">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Dragonfly Society" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Dragonfly Society" target="Norfolk Biodiversity Information Service">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Dragonfly Society" target="Scottish Environment Protection Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Dragonfly Society" target="Broads Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SSE Energy Supply Limited UK" target="Cardiff University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Statoil (UK) Ltd" target="Durham University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Statoil (UK) Ltd" target="Petroleum Systems International (UK)">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Statoil (UK) Ltd" target="Chemostrat Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Forestry Commission Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Plymouth Marine Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conservation Grade" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conservation Grade" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conservation Grade" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conservation Grade" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conservation Grade" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conservation Grade" target="Water UK">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Conservation Grade" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="AOC Archaeology Group">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="Rothiemurchus Estate">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="Swansea University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ADAS" target="University of East Anglia">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of East Anglia" target="University of Sheffield">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of East Anglia" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of East Anglia" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of East Anglia" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of East Anglia" target="Plymouth Marine Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BEAR Scotland" target="Transport Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Michael Payne Environmental Consultants">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Shellfish Association of Great Britain">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glamorgan" target="Royal Observatory (Edinburgh) Trust (The">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Centre for Atmospheric Science" target="New Forests">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="People's Trust for Endangered Species" target="Sea Mammal Research Unit">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="People's Trust for Endangered Species" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="People's Trust for Endangered Species" target="The Woodland Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Forestry Commission Scotland" target="Transport Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Forestry Commission Scotland" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RCAHMS" target="Historic Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RCAHMS" target="Perth and Kinross Heritage Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RCAHMS" target="Scott Wilson Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RCAHMS" target="University of Leeds">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RCAHMS" target="Utsi Electronics Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Mammal Research Unit" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sea Mammal Research Unit" target="The Woodland Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Thomas Swan and Co Ltd" target="Purolite International Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Lung Foundation" target="Food &amp; Environment Research Agency -FERA">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Trust for Ornithology" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Trust for Ornithology" target="Joint Nature Conservation Committee">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Trust for Ornithology" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ESRC" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Environment Protection Agency" target="Broads Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Environment Protection Agency" target="Heriot-Watt University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Environment Protection Agency" target="BMT Group Ltd (UK)">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Environment Protection Agency" target="Kaya Consulting Limited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Environment Protection Agency" target="Tees Valley Unlimited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Environment Protection Agency" target="Norfolk Biodiversity Information Service">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Environment Protection Agency" target="JBA Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Sheffield" target="Botanical Society of the British Isles">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="Centrica Plc">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="Durham University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="Joint Nature Conservation Committee">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="Butterfly Conservation">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="University of York">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Centrica Plc" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Centrica Plc" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Woodland Trust" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Woodland Trust" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Woodland Trust" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="United Nations Environment Programe UNEP" target="University of Leeds">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="United Nations Environment Programe UNEP" target="BioClimate Research &amp; Development">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Butterfly Conservation" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Butterfly Conservation" target="Botanical Society of the British Isles">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Butterfly Conservation" target="University of York">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Butterfly Conservation" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Butterfly Conservation" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Butterfly Conservation" target="Joint Nature Conservation Committee">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="National Grid PLC">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Imperial College London">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Ofgem">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Leeds" target="Historic Scotland">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="Environmental Research Institute">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="Scott Wilson Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="Forestry Commission Research Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="Perth and Kinross Heritage Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="BioClimate Research &amp; Development">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Water UK" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Water UK" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Water UK" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Water UK" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Water UK" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Water UK" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Grid PLC" target="Process Systems Enterprises Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Process Systems Enterprises Ltd" target="Ofgem">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Process Systems Enterprises Ltd" target="Heriot-Watt University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Process Systems Enterprises Ltd" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Process Systems Enterprises Ltd" target="Osprey Corporation Limited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Process Systems Enterprises Ltd" target="Tees Valley Unlimited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Kaya Consulting Limited" target="JBA Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Kaya Consulting Limited" target="Heriot-Watt University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Kaya Consulting Limited" target="BMT Group Ltd (UK)">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Botanical Society of the British Isles" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Botanical Society of the British Isles" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Botanical Society of the British Isles" target="RSPB">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Botanical Society of the British Isles" target="Joint Nature Conservation Committee">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Botanical Society of the British Isles" target="University of York">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Petroleum Systems International (UK)" target="Durham University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Petroleum Systems International (UK)" target="Chemostrat Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Historic Scotland" target="Perth and Kinross Heritage Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Historic Scotland" target="Utsi Electronics Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Historic Scotland" target="Scott Wilson Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Physical Laboratory NPL" target="University of Nottingham">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Transport Scotland" target="Leicester Resilience Forum">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Transport Scotland" target="Atkins Global">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Transport Scotland" target="Met Office">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Met Office" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Met Office" target="Leicester Resilience Forum">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Met Office" target="Atkins Global">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Met Office" target="Forestry Commission Research Agency">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Met Office" target="Plymouth Marine Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RSPB" target="Joint Nature Conservation Committee">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RSPB" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RSPB" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RSPB" target="University of York">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RSPB" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RSPB" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="RSPB" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RSPB" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Norfolk Biodiversity Information Service" target="Scottish Natural Heritage">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Norfolk Biodiversity Information Service" target="Broads Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leicester Resilience Forum" target="Atkins Global">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Nottingham" target="Heriot-Watt University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Osprey Corporation Limited" target="Heriot-Watt University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Osprey Corporation Limited" target="Tees Valley Unlimited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scott Wilson Ltd" target="Utsi Electronics Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scott Wilson Ltd" target="Perth and Kinross Heritage Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Julich Research Centre" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Natural Heritage" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Scottish Natural Heritage" target="Broads Authority">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Natural Heritage" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Scottish Natural Heritage" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Natural Heritage" target="Crop Protection Association">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Natural Heritage" target="Joint Nature Conservation Committee">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Scottish Natural Heritage" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Natural Heritage" target="University of York">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Perth and Kinross Heritage Trust" target="Utsi Electronics Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rothiemurchus Estate" target="Swansea University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rothiemurchus Estate" target="AOC Archaeology Group">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Crop Protection Association" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Crop Protection Association" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Crop Protection Association" target="University of Cambridge">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Cambridge" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Cambridge" target="NERC British Geological Survey">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Cambridge" target="Joint Nature Conservation Committee">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Cambridge" target="House of Lords">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Cambridge" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Water" target="University of Bristol">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Water" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NERC British Geological Survey" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dart Energy (Europe) Ltd" target="Cuadrilla Resources Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Chemostrat Ltd" target="Durham University">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Pisces Conservation Ltd">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="House of Lords" target="Linking Env and Farming LEAF">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heriot-Watt University" target="National Oceanography Centre">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heriot-Watt University" target="BMT Group Ltd (UK)">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heriot-Watt University" target="Tees Valley Unlimited">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heriot-Watt University" target="JBA Trust">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Fishermen's Federation" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Oceanography Centre" target="Overseas Development Institute ODI">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Oceanography Centre" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Oceanography Centre" target="Plymouth Marine Laboratory">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Michael Payne Environmental Consultants" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Michael Payne Environmental Consultants" target="Shellfish Association of Great Britain">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="JBA Trust" target="BMT Group Ltd (UK)">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shellfish Association of Great Britain" target="Dwr Cymru Welsh Water">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ofgem" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Overseas Development Institute ODI" target="Department of Energy and Climate Change">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dwr Cymru Welsh Water" target="Countryside Council for Wales">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Swansea University" target="AOC Archaeology Group">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Countryside Council for Wales" target="Joint Nature Conservation Committee">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Countryside Council for Wales" target="University of York">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Nature Conservation Committee" target="University of York">
+      <data key="d2">Environmental Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+  </graph>
+</graphml>

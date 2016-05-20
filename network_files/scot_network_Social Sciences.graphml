@@ -1,0 +1,2457 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d3" />
+  <key attr.name="topic_classified" attr.type="string" for="edge" id="d2" />
+  <key attr.name="country" attr.type="string" for="node" id="d1" />
+  <key attr.name="lad" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="BBSRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="City of Edinburgh Council">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Perth &amp; Kinross Council">
+      <data key="d0">Perth and Kinross</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Royal Bank of Scotland Plc">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Forest Research">
+      <data key="d0">Midlothian</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Lancaster University">
+      <data key="d0">Lancaster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of St Andrews">
+      <data key="d0">Fife</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="SSIA (Improving Social Care in Wales)">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Institute for Voluntary Action Research">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Runnymede Trust">
+      <data key="d0">Hackney</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="London School of Economics &amp; Pol Sci">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Queen Margaret University Edinburgh">
+      <data key="d0">East Lothian</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Medical Research Council">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Dept for Children Schools and Families">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Exeter">
+      <data key="d0">Exeter</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Bridgend County Borough Council">
+      <data key="d0">Bridgend</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Gangmasters Licensing Authority">
+      <data key="d0">Nottingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Queen Mary, University of London">
+      <data key="d0">Tower Hamlets</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Southampton">
+      <data key="d0">Southampton</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Abertay Dundee">
+      <data key="d0">Dundee City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Mental Health Foundation">
+      <data key="d0">Southwark</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Glasgow">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Angus Council">
+      <data key="d0">Angus</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Birmingham City University">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Migrant Voice">
+      <data key="d0">Kensington and Chelsea</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Loughborough University">
+      <data key="d0">Charnwood</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Risk Management Authority">
+      <data key="d0">Renfrewshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Aberdeen City Council">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of the Highlands and Islands">
+      <data key="d0">Highland</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Scottish Funding Council">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Circles UK">
+      <data key="d0">Reading</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Stirling Council">
+      <data key="d0">Stirling</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Commission for the New Economy">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Warwick">
+      <data key="d0">Coventry</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="General Medical Council">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Glasgow City Council">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Liverpool">
+      <data key="d0">Liverpool</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Department for Culture Media and Sport">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Responsibility in Gambling Trust">
+      <data key="d0">Southwark</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Close the Gap">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Staffordshire and West Midlands Probatio">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Goldsmiths College">
+      <data key="d0">Lewisham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Heather Trust">
+      <data key="d0">Dumfries and Galloway</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Aberdeen">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="MRC - Regional Centre London">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Council for Voluntary Orgs">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Joint Improvement Team">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Inspiring Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Northumbria University">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Glasgow Caledonian University">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="VOCAL (Voice of Carers Across Lothian)">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Natural Environment Research Council">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Dundee">
+      <data key="d0">Dundee City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="EPSRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Essex">
+      <data key="d0">Colchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Independent Researcher">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Department for Work and Pensions">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="NHS Education Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Health and Social Care Alliance Scotland">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Moray Community Health &amp; Social Care">
+      <data key="d0">Moray</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="NHS Health Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Energy Institute">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Newcastle University">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Scottish Government">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The Robert Gordon University">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="North Lanarkshire Council">
+      <data key="d0">North Lanarkshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The Cabinet Office">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Birmingham">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Stirling">
+      <data key="d0">Stirling</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University College London">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Crisis">
+      <data key="d0">Tower Hamlets</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Open University">
+      <data key="d0">Milton Keynes</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Aberlour Child Care Trust">
+      <data key="d0">Stirling</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Reading">
+      <data key="d0">Wokingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Alzheimer Scotland - Action on Dementia">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Nat Council for Voluntary Organisations">
+      <data key="d0">Islington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Children in Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Angus Association of Voluntary AAVO">
+      <data key="d0">Angus</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Strathclyde">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Scottish Executive Env and Rural Affairs">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Oxford">
+      <data key="d0">Oxford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="British Safety Council">
+      <data key="d0">Hammersmith and Fulham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="East Lothian Council">
+      <data key="d0">East Lothian</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Aberystwyth University">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of East Anglia">
+      <data key="d0">Norwich</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="City University London">
+      <data key="d0">Islington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="East Renfrewshire Council">
+      <data key="d0">East Renfrewshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Institute for Government">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Get Fit 4 It">
+      <data key="d0">Falkirk</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Technology Strategy Board">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Glamorgan">
+      <data key="d0">Rhondda Cynon Taf</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Welsh Government">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="AHRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="School of Oriental &amp; African Studies">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Carnegie UK Trust">
+      <data key="d0">Fife</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Scottish Environment Protection Agency">
+      <data key="d0">Stirling</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Sheffield">
+      <data key="d0">Sheffield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Aberdeenshire Council">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Nesta">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The University of Manchester">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Glasgow Centre for Population Health">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Imperial College London">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Leeds">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Institute for Employment Studies">
+      <data key="d0">Brighton and Hove</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Moors for The Future Partnership">
+      <data key="d0">High Peak</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Defence Academy of the United Kingdom">
+      <data key="d0">Vale of White Horse</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Manchester">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Higher Education Funding Council - Wales">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="West Lothian Council">
+      <data key="d0">West Lothian</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Parenting Across Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Action for Children">
+      <data key="d0">Watford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Bournemouth University">
+      <data key="d0">Bournemouth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Imperial Cancer Research Fund">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="IRISS">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Nottingham">
+      <data key="d0">Nottingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="SWIIS Foster Care Scotland">
+      <data key="d0">Fife</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The Lucy Faithfull Foundation">
+      <data key="d0">Bromsgrove</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Natural Heritage">
+      <data key="d0">Perth and Kinross</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Nat Org for Treatment of Abusers">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="NSPCC">
+      <data key="d0">Hackney</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Dept for Business, Innovation and Skills">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Cambridge">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of the West of England">
+      <data key="d0">South Gloucestershire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Grampian Regional Equality Council">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Bristol">
+      <data key="d0">Bristol, City of</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Heriot-Watt University">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Plymouth City Council">
+      <data key="d0">Plymouth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Department of Health">
+      <data key="d0">Southwark</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Dept for International Development DFID">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Penumbra">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="British Heart Foundation">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="National Institute of Economic &amp; Soc Res">
+      <data key="d0">Oxford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Refugee Council">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="COSLA Strategic Migration Partnership">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Cardiff University">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="London South Bank University">
+      <data key="d0">Southwark</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Swansea University">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Improvement Service">
+      <data key="d0">West Lothian</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="HEFCE">
+      <data key="d0">South Gloucestershire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Office of Fair Trading">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Cardiff Metropolitan University">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Durham University">
+      <data key="d0">County Durham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Bord na Gaidhlig">
+      <data key="d0">Highland</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of York">
+      <data key="d0">York</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Department for Transport">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Institute for Fiscal Studies">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Birmingham City Council">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <edge source="BBSRC" target="University of Warwick">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BBSRC" target="Lancaster University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BBSRC" target="EPSRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BBSRC" target="Medical Research Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BBSRC" target="Newcastle University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BBSRC" target="University of Southampton">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BBSRC" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BBSRC" target="Forest Research">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BBSRC" target="School of Oriental &amp; African Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BBSRC" target="University of St Andrews">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="Health and Social Care Alliance Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="Plymouth City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="Penumbra">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="Moray Community Health &amp; Social Care">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="Bridgend County Borough Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="VOCAL (Voice of Carers Across Lothian)">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="University of Strathclyde">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="Glasgow City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="Angus Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="Swansea University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="SSIA (Improving Social Care in Wales)">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="East Renfrewshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="East Lothian Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="Joint Improvement Team">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="Stirling Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Perth &amp; Kinross Council" target="University of Stirling">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Perth &amp; Kinross Council" target="Aberlour Child Care Trust">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Perth &amp; Kinross Council" target="SWIIS Foster Care Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Bank of Scotland Plc" target="London School of Economics &amp; Pol Sci">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Bank of Scotland Plc" target="Commission for the New Economy">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Forest Research" target="Natural Environment Research Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Forest Research" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Forest Research" target="Scottish Executive Env and Rural Affairs">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Natural Environment Research Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Lancaster University" target="Scottish Executive Env and Rural Affairs">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Lancaster University" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of St Andrews" target="General Medical Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Dundee">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Medical Research Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Department for Culture Media and Sport">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Glasgow">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Northumbria University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Scottish Funding Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="National Institute of Economic &amp; Soc Res">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Office of Fair Trading">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="The University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Aberdeen">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Institute for Fiscal Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SSIA (Improving Social Care in Wales)" target="Health and Social Care Alliance Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SSIA (Improving Social Care in Wales)" target="Penumbra">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SSIA (Improving Social Care in Wales)" target="Moray Community Health &amp; Social Care">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SSIA (Improving Social Care in Wales)" target="Bridgend County Borough Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SSIA (Improving Social Care in Wales)" target="VOCAL (Voice of Carers Across Lothian)">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SSIA (Improving Social Care in Wales)" target="Swansea University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SSIA (Improving Social Care in Wales)" target="Angus Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SSIA (Improving Social Care in Wales)" target="East Renfrewshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SSIA (Improving Social Care in Wales)" target="Joint Improvement Team">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SSIA (Improving Social Care in Wales)" target="Stirling Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute for Voluntary Action Research" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute for Voluntary Action Research" target="The Scottish Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute for Voluntary Action Research" target="Nat Council for Voluntary Organisations">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Runnymede Trust" target="Scottish Refugee Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Runnymede Trust" target="University of Glasgow">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Runnymede Trust" target="University of Warwick">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Runnymede Trust" target="Migrant Voice">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="London School of Economics &amp; Pol Sci" target="The Scottish Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="London School of Economics &amp; Pol Sci" target="Scottish Environment Protection Agency">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="London School of Economics &amp; Pol Sci" target="Commission for the New Economy">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Queen Margaret University Edinburgh" target="Queen Margaret University Edinburgh">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Medical Research Council" target="University of the Highlands and Islands">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Medical Research Council" target="University of Glasgow">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Medical Research Council" target="EPSRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Medical Research Council" target="University of Aberdeen">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Children Schools and Families" target="Department for Transport">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Children Schools and Families" target="The Scottish Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Children Schools and Families" target="Welsh Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Children Schools and Families" target="EPSRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Children Schools and Families" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Children Schools and Families" target="University of Essex">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Children Schools and Families" target="Department for Work and Pensions">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Children Schools and Families" target="Department for Culture Media and Sport">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Children Schools and Families" target="University of Glasgow">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Children Schools and Families" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="University of Stirling">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="British Heart Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Get Fit 4 It">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Birmingham City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bridgend County Borough Council" target="Health and Social Care Alliance Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bridgend County Borough Council" target="Penumbra">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bridgend County Borough Council" target="Moray Community Health &amp; Social Care">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bridgend County Borough Council" target="East Renfrewshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bridgend County Borough Council" target="Swansea University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bridgend County Borough Council" target="Angus Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bridgend County Borough Council" target="VOCAL (Voice of Carers Across Lothian)">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bridgend County Borough Council" target="Joint Improvement Team">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bridgend County Borough Council" target="Stirling Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gangmasters Licensing Authority" target="Glasgow City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gangmasters Licensing Authority" target="Aberdeen City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gangmasters Licensing Authority" target="Grampian Regional Equality Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gangmasters Licensing Authority" target="University of Glasgow">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gangmasters Licensing Authority" target="COSLA Strategic Migration Partnership">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gangmasters Licensing Authority" target="Aberdeenshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gangmasters Licensing Authority" target="Angus Association of Voluntary AAVO">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Queen Mary, University of London" target="University of Stirling">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Queen Mary, University of London" target="University of Nottingham">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Queen Mary, University of London" target="British Heart Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Queen Mary, University of London" target="University of Birmingham">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Queen Mary, University of London" target="MRC - Regional Centre London">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Queen Mary, University of London" target="Imperial Cancer Research Fund">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Queen Mary, University of London" target="Department of Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="The Cabinet Office">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Scottish Executive Env and Rural Affairs">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="The Scottish Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Natural Environment Research Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Carnegie UK Trust">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Abertay Dundee" target="Natural Environment Research Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Abertay Dundee" target="EPSRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Abertay Dundee" target="Goldsmiths College">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Abertay Dundee" target="AHRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Mental Health Foundation" target="Alzheimer Scotland - Action on Dementia">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Glasgow City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Bournemouth University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="IRISS">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Nottingham">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Responsibility in Gambling Trust">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="Angus Association of Voluntary AAVO">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Aberystwyth University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Aberdeen">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Grampian Regional Equality Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Bristol">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Scottish Council for Voluntary Orgs">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Joint Improvement Team">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Inspiring Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="EPSRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Essex">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Scottish Refugee Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="NHS Education Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="AHRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="Dept for International Development DFID">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Dundee">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Sheffield">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="NHS Health Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Aberdeenshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="COSLA Strategic Migration Partnership">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Glasgow Centre for Population Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Migrant Voice">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Stirling">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Aberdeen City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Defence Academy of the United Kingdom">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="London South Bank University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Higher Education Funding Council - Wales">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Improvement Service">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Warwick">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Reading">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Angus Council" target="Health and Social Care Alliance Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Angus Council" target="Penumbra">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Angus Council" target="Stirling Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Angus Council" target="VOCAL (Voice of Carers Across Lothian)">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Angus Council" target="Swansea University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Angus Council" target="East Renfrewshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Angus Council" target="Joint Improvement Team">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Angus Council" target="Moray Community Health &amp; Social Care">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Birmingham City University" target="The Scottish Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Birmingham City University" target="Natural Environment Research Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Migrant Voice" target="Scottish Refugee Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Migrant Voice" target="University of Warwick">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="British Safety Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Glasgow Caledonian University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Energy Institute">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="University of Aberdeen">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Risk Management Authority" target="University of the West of England">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Risk Management Authority" target="Nat Org for Treatment of Abusers">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Risk Management Authority" target="Staffordshire and West Midlands Probatio">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Risk Management Authority" target="University of Glamorgan">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Risk Management Authority" target="NSPCC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Risk Management Authority" target="The Lucy Faithfull Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Risk Management Authority" target="Circles UK">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberdeen City Council" target="Angus Association of Voluntary AAVO">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberdeen City Council" target="Grampian Regional Equality Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberdeen City Council" target="Aberdeenshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberdeen City Council" target="Glasgow City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberdeen City Council" target="COSLA Strategic Migration Partnership">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="University of Sheffield">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="Cardiff Metropolitan University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="The University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="Open University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="Institute for Employment Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="University College London">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="Institute for Fiscal Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="Newcastle University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="Higher Education Funding Council - Wales">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">11</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="University of Cambridge">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Funding Council" target="University of Oxford">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Circles UK" target="NSPCC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Circles UK" target="Nat Org for Treatment of Abusers">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Circles UK" target="Staffordshire and West Midlands Probatio">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Circles UK" target="University of Glamorgan">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Circles UK" target="University of the West of England">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Circles UK" target="The Lucy Faithfull Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Stirling Council" target="Health and Social Care Alliance Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Stirling Council" target="Penumbra">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Stirling Council" target="Moray Community Health &amp; Social Care">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Stirling Council" target="VOCAL (Voice of Carers Across Lothian)">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Stirling Council" target="Swansea University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Stirling Council" target="East Renfrewshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Stirling Council" target="Joint Improvement Team">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Warwick" target="Scottish Refugee Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Warwick" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Warwick" target="University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Warwick" target="Scottish Executive Env and Rural Affairs">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Warwick" target="Natural Environment Research Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Warwick" target="University of Strathclyde">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow City Council" target="Plymouth City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow City Council" target="Grampian Regional Equality Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow City Council" target="University of Strathclyde">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow City Council" target="COSLA Strategic Migration Partnership">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow City Council" target="Aberdeenshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow City Council" target="Angus Association of Voluntary AAVO">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Liverpool" target="University of Aberdeen">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Culture Media and Sport" target="Department for Work and Pensions">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Culture Media and Sport" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Culture Media and Sport" target="Department for Transport">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Culture Media and Sport" target="University of Essex">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Culture Media and Sport" target="Welsh Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Culture Media and Sport" target="The Scottish Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Close the Gap" target="Glasgow Caledonian University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Staffordshire and West Midlands Probatio" target="University of the West of England">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Staffordshire and West Midlands Probatio" target="Nat Org for Treatment of Abusers">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Staffordshire and West Midlands Probatio" target="University of Glamorgan">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Staffordshire and West Midlands Probatio" target="NSPCC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Staffordshire and West Midlands Probatio" target="The Lucy Faithfull Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Goldsmiths College" target="AHRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heather Trust" target="Scottish Natural Heritage">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heather Trust" target="The University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heather Trust" target="University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heather Trust" target="EPSRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heather Trust" target="Natural Environment Research Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heather Trust" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="British Safety Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="Scottish Executive Env and Rural Affairs">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="University of Dundee">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Aberdeen" target="Energy Institute">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="Glasgow Caledonian University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="Natural Environment Research Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Aberdeen" target="University of Strathclyde">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Aberdeen" target="The Scottish Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MRC - Regional Centre London" target="University of Stirling">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MRC - Regional Centre London" target="University of Nottingham">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MRC - Regional Centre London" target="Imperial Cancer Research Fund">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MRC - Regional Centre London" target="British Heart Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MRC - Regional Centre London" target="Department of Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MRC - Regional Centre London" target="University of Birmingham">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Council for Voluntary Orgs" target="NHS Education Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Council for Voluntary Orgs" target="University of Stirling">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Council for Voluntary Orgs" target="NHS Health Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Council for Voluntary Orgs" target="IRISS">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Council for Voluntary Orgs" target="Inspiring Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Council for Voluntary Orgs" target="Joint Improvement Team">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Council for Voluntary Orgs" target="Improvement Service">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Council for Voluntary Orgs" target="Glasgow Centre for Population Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="Health and Social Care Alliance Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="NHS Education Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="Penumbra">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="VOCAL (Voice of Carers Across Lothian)">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="Swansea University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="Moray Community Health &amp; Social Care">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="NHS Health Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="East Renfrewshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="IRISS">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="Inspiring Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="Improvement Service">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Joint Improvement Team" target="Glasgow Centre for Population Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Inspiring Scotland" target="NHS Health Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Inspiring Scotland" target="IRISS">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Inspiring Scotland" target="NHS Education Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Inspiring Scotland" target="Improvement Service">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Inspiring Scotland" target="Glasgow Centre for Population Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow Caledonian University" target="British Safety Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow Caledonian University" target="Dept for International Development DFID">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow Caledonian University" target="Energy Institute">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VOCAL (Voice of Carers Across Lothian)" target="Health and Social Care Alliance Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VOCAL (Voice of Carers Across Lothian)" target="Penumbra">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VOCAL (Voice of Carers Across Lothian)" target="Moray Community Health &amp; Social Care">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VOCAL (Voice of Carers Across Lothian)" target="East Renfrewshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VOCAL (Voice of Carers Across Lothian)" target="Swansea University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="Durham University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="The University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="Scottish Natural Heritage">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="EPSRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="Imperial College London">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="Newcastle University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">5</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="University of East Anglia">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="School of Oriental &amp; African Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="University of Cambridge">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Scottish Executive Env and Rural Affairs">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="Scottish Natural Heritage">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="The University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Essex" target="Department for Transport">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Essex" target="The Scottish Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Essex" target="Welsh Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Essex" target="Department for Work and Pensions">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Essex" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Independent Researcher" target="Cardiff University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Work and Pensions" target="Department for Transport">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Work and Pensions" target="Welsh Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Work and Pensions" target="The Scottish Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department for Work and Pensions" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NHS Education Scotland" target="IRISS">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NHS Education Scotland" target="NHS Health Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NHS Education Scotland" target="Glasgow Centre for Population Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NHS Education Scotland" target="Improvement Service">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Health and Social Care Alliance Scotland" target="Penumbra">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Health and Social Care Alliance Scotland" target="Swansea University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Health and Social Care Alliance Scotland" target="East Renfrewshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Health and Social Care Alliance Scotland" target="Moray Community Health &amp; Social Care">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Moray Community Health &amp; Social Care" target="Penumbra">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Moray Community Health &amp; Social Care" target="Swansea University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Moray Community Health &amp; Social Care" target="East Renfrewshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NHS Health Scotland" target="IRISS">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NHS Health Scotland" target="Improvement Service">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NHS Health Scotland" target="Glasgow Centre for Population Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Energy Institute" target="British Safety Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Scottish Executive Env and Rural Affairs">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Newcastle University" target="Higher Education Funding Council - Wales">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="University of Strathclyde">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Bord na Gaidhlig">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="School of Oriental &amp; African Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="West Lothian Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Nat Council for Voluntary Organisations">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Children in Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="The Scottish Government" target="City University London">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="The Scottish Government" target="Parenting Across Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Durham University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Department for Transport">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="The Scottish Government" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Welsh Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Robert Gordon University" target="Dept for Env Food &amp; Rural Affairs  DEFRA">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="North Lanarkshire Council" target="IRISS">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="North Lanarkshire Council" target="University of Strathclyde">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Cabinet Office" target="City University London">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Birmingham" target="Department of Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="Imperial Cancer Research Fund">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="University of Stirling">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="British Heart Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="The University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="Institute for Fiscal Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Stirling" target="Department of Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="University of Nottingham">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="Action for Children">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="SWIIS Foster Care Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="British Heart Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="National Institute of Economic &amp; Soc Res">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">4</data>
+    </edge>
+    <edge source="University of Stirling" target="Moors for The Future Partnership">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="Aberlour Child Care Trust">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="AHRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="Imperial Cancer Research Fund">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Welsh Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="School of Oriental &amp; African Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="The University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Dept for Env Food &amp; Rural Affairs  DEFRA" target="Department for Transport">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="AHRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Crisis" target="University of York">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Crisis" target="Heriot-Watt University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="Higher Education Funding Council - Wales">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberlour Child Care Trust" target="SWIIS Foster Care Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nat Council for Voluntary Organisations" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Children in Scotland" target="Parenting Across Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Children in Scotland" target="West Lothian Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Angus Association of Voluntary AAVO" target="Grampian Regional Equality Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Angus Association of Voluntary AAVO" target="COSLA Strategic Migration Partnership">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Angus Association of Voluntary AAVO" target="Aberdeenshire Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="IRISS">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="Dept for Business, Innovation and Skills">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="University of Bristol">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="Higher Education Funding Council - Wales">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Strathclyde" target="University of East Anglia">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="National Institute of Economic &amp; Soc Res">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="University of York">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="Institute for Government">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="Nesta">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="Plymouth City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Executive Env and Rural Affairs" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Scottish Executive Env and Rural Affairs" target="School of Oriental &amp; African Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Executive Env and Rural Affairs" target="University of East Anglia">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Oxford" target="AHRC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of East Anglia" target="University of East Anglia">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City University London" target="Carnegie UK Trust">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="East Renfrewshire Council" target="Penumbra">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="East Renfrewshire Council" target="Swansea University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Get Fit 4 It" target="British Heart Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Get Fit 4 It" target="Birmingham City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Nesta">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Dept for Business, Innovation and Skills">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glamorgan" target="University of the West of England">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glamorgan" target="Nat Org for Treatment of Abusers">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glamorgan" target="NSPCC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glamorgan" target="The Lucy Faithfull Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Welsh Government" target="Department for Transport">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="AHRC" target="Defence Academy of the United Kingdom">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="AHRC" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="Higher Education Funding Council - Wales">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberdeenshire Council" target="Grampian Regional Equality Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberdeenshire Council" target="COSLA Strategic Migration Partnership">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nesta" target="Dept for Business, Innovation and Skills">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Scottish Natural Heritage">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Higher Education Funding Council - Wales">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow Centre for Population Health" target="IRISS">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow Centre for Population Health" target="Improvement Service">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Department for Transport">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="Scottish Natural Heritage">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="University of Manchester">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="University of Leeds">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute for Employment Studies" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Institute for Employment Studies" target="Higher Education Funding Council - Wales">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Manchester" target="Scottish Natural Heritage">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Higher Education Funding Council - Wales" target="Institute for Fiscal Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Higher Education Funding Council - Wales" target="Cardiff Metropolitan University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Higher Education Funding Council - Wales" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">11</data>
+    </edge>
+    <edge source="Higher Education Funding Council - Wales" target="University of Cambridge">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="West Lothian Council" target="Parenting Across Scotland">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial Cancer Research Fund" target="University of Nottingham">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial Cancer Research Fund" target="British Heart Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial Cancer Research Fund" target="Department of Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="IRISS" target="Improvement Service">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Nottingham" target="Department of Health">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Nottingham" target="British Heart Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Lucy Faithfull Foundation" target="University of the West of England">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Lucy Faithfull Foundation" target="Nat Org for Treatment of Abusers">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Lucy Faithfull Foundation" target="NSPCC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nat Org for Treatment of Abusers" target="University of the West of England">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nat Org for Treatment of Abusers" target="NSPCC">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NSPCC" target="University of the West of England">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Cambridge" target="HEFCE">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Grampian Regional Equality Council" target="COSLA Strategic Migration Partnership">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="University of York">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Department of Health" target="British Heart Foundation">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Penumbra" target="Swansea University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Heart Foundation" target="Birmingham City Council">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Institute of Economic &amp; Soc Res" target="National Institute of Economic &amp; Soc Res">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Institute of Economic &amp; Soc Res" target="Institute for Fiscal Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="HEFCE" target="Cardiff Metropolitan University">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="HEFCE" target="Institute for Fiscal Studies">
+      <data key="d2">Social Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+  </graph>
+</graphml>

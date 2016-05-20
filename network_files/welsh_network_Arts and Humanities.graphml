@@ -1,0 +1,1333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d3" />
+  <key attr.name="topic_classified" attr.type="string" for="edge" id="d2" />
+  <key attr.name="country" attr.type="string" for="node" id="d1" />
+  <key attr.name="lad" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="University of Bristol">
+      <data key="d0">Bristol, City of</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The University of Manchester">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Glasgow School of Art">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Royal Academy of Music">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Little Theatre Guild">
+      <data key="d0">Winchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Imperial College London">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Howard Gardens Gallery">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Exeter">
+      <data key="d0">Exeter</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Sheffield Hallam University">
+      <data key="d0">Sheffield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Voluntary Arts Network">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Southampton">
+      <data key="d0">Southampton</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Victoria and Albert Museum">
+      <data key="d0">Kensington and Chelsea</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Lancaster University">
+      <data key="d0">Lancaster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The National Archives">
+      <data key="d0">Richmond upon Thames</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="ArtsDepot">
+      <data key="d0">Barnet</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Loughborough University">
+      <data key="d0">Charnwood</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Salisbury Cathedral">
+      <data key="d0">Wiltshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Animazoo UK">
+      <data key="d0">Brighton and Hove</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Centre for the Moving Image">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The National Trust">
+      <data key="d0">St Edmundsbury</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Bangor University">
+      <data key="d0">Gwynedd</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Royal Holloway, University of London">
+      <data key="d0">Runnymede</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="National Slate Museum Wales">
+      <data key="d0">Gwynedd</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Wales">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Bath Spa University">
+      <data key="d0">Bath and North East Somerset</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Plymouth">
+      <data key="d0">Plymouth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Sampad South Asian Arts">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Design Council">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Thinktank Birmingham Science Museum">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Goldsmiths College">
+      <data key="d0">Lewisham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Coventry University">
+      <data key="d0">Coventry</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Northumbria University">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Glamorgan-Gwent Archaeological Trust">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Glamorgan Cricket Club">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="EPSRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Newport City Council">
+      <data key="d0">Newport</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Royal Central Sch of Speech and Drama">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Cyrff Ystwyth">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Dundee">
+      <data key="d0">Dundee City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="City and County of Swansea">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Birkbeck College">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Young Foundation">
+      <data key="d0">Tower Hamlets</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Markfield Institute">
+      <data key="d0">Hinckley and Bosworth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Wales, Lampeter">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Aberystwyth Arts Centre">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Leicester">
+      <data key="d0">Leicester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="National Museum Wales">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Barnsley Metropolitan Borough Council">
+      <data key="d0">Barnsley</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Open University">
+      <data key="d0">Milton Keynes</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Your Back Yard CIC">
+      <data key="d0">Bradford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="S4C">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="British Library The">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of South Wales">
+      <data key="d0">Rhondda Cynon Taf</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="English Heritage">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Aberystwyth University">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="LUX">
+      <data key="d0">Hackney</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Chapter Arts Centre">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Glamorgan">
+      <data key="d0">Rhondda Cynon Taf</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="National Waterfront Museum">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="RCAHMW">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="ESRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Glasgow Life">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Snook">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Half Moon Young People's Theatre">
+      <data key="d0">Tower Hamlets</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Nesta">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Oldham Council">
+      <data key="d0">Oldham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="British Broadcasting Corporation - BBC">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Ceredigion Museum">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Design Wales">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="RCAHMS">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Letchworth Garden City Heritage Fn">
+      <data key="d0">North Hertfordshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Cynon Valley Museum &amp; Gallery">
+      <data key="d0">Rhondda Cynon Taf</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Wales, Newport">
+      <data key="d0">Newport</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Nottingham">
+      <data key="d0">Nottingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="National Welsh College">
+      <data key="d0">Carmarthenshire</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Cambridge">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of the West of England">
+      <data key="d0">South Gloucestershire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Orchestra of the Age of Enlightenment">
+      <data key="d0">Islington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Royal Television Society Wales">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Royal Navy">
+      <data key="d0">Portsmouth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The National Library of Wales">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Swansea University">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Ordnance Survey">
+      <data key="d0">Test Valley</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Cardiff University">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <edge source="University of Bristol" target="Swansea University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Loughborough University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="The Design Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Glasgow School of Art">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Northumbria University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Sheffield Hallam University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Lancaster University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="The Design Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Sheffield Hallam University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Loughborough University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Lancaster University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Northumbria University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Academy of Music" target="Orchestra of the Age of Enlightenment">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Academy of Music" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Little Theatre Guild" target="Letchworth Garden City Heritage Fn">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Little Theatre Guild" target="Royal Navy">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Little Theatre Guild" target="Voluntary Arts Network">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Little Theatre Guild" target="Royal Holloway, University of London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="University of Plymouth">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="ArtsDepot">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="University of Wales, Newport">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Animazoo UK">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Birkbeck College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Thinktank Birmingham Science Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Goldsmiths College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Coventry University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Howard Gardens Gallery" target="University of the West of England">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Aberystwyth University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Exeter" target="The National Trust">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Exeter" target="Chapter Arts Centre">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="National Welsh College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Exeter" target="Bath Spa University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="The Design Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Loughborough University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Lancaster University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Northumbria University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Arts Network" target="Letchworth Garden City Heritage Fn">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Arts Network" target="Royal Navy">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Arts Network" target="Royal Holloway, University of London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="University of Nottingham">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="University of Leicester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="University of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Victoria and Albert Museum" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="The Design Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Loughborough University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Northumbria University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="Sampad South Asian Arts">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="The National Archives" target="Barnsley Metropolitan Borough Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="EPSRC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="Your Back Yard CIC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ArtsDepot" target="Thinktank Birmingham Science Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ArtsDepot" target="Animazoo UK">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ArtsDepot" target="University of Plymouth">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ArtsDepot" target="Coventry University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ArtsDepot" target="Goldsmiths College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ArtsDepot" target="Birkbeck College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ArtsDepot" target="University of Wales, Newport">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="The Design Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Northumbria University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salisbury Cathedral" target="Bangor University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salisbury Cathedral" target="ESRC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salisbury Cathedral" target="National Museum Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Animazoo UK" target="Thinktank Birmingham Science Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Animazoo UK" target="Coventry University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Animazoo UK" target="University of Plymouth">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Animazoo UK" target="Goldsmiths College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Animazoo UK" target="Birkbeck College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Animazoo UK" target="University of Wales, Newport">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Centre for the Moving Image" target="LUX">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Centre for the Moving Image" target="Aberystwyth Arts Centre">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="National Welsh College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="The National Trust" target="Bath Spa University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="The National Trust" target="Aberystwyth University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="National Museum Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Bangor University" target="Ceredigion Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="RCAHMW">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Holloway, University of London" target="Letchworth Garden City Heritage Fn">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Holloway, University of London" target="Royal Navy">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Slate Museum Wales" target="Glamorgan Cricket Club">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Slate Museum Wales" target="National Waterfront Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Slate Museum Wales" target="Cynon Valley Museum &amp; Gallery">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Slate Museum Wales" target="University of Glamorgan">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Slate Museum Wales" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Slate Museum Wales" target="National Museum Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Wales" target="University of Nottingham">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Wales" target="Swansea University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Wales" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Wales" target="Aberystwyth University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Wales" target="University of Leicester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bath Spa University" target="National Welsh College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bath Spa University" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Plymouth" target="Thinktank Birmingham Science Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Plymouth" target="Birkbeck College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Plymouth" target="Goldsmiths College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Plymouth" target="Coventry University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Plymouth" target="University of Wales, Newport">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sampad South Asian Arts" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sampad South Asian Arts" target="Your Back Yard CIC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sampad South Asian Arts" target="Barnsley Metropolitan Borough Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="Northumbria University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Thinktank Birmingham Science Museum" target="Coventry University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Thinktank Birmingham Science Museum" target="Goldsmiths College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Thinktank Birmingham Science Museum" target="Birkbeck College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Thinktank Birmingham Science Museum" target="University of Wales, Newport">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Goldsmiths College" target="Coventry University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Goldsmiths College" target="Birkbeck College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Goldsmiths College" target="University of Wales, Newport">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Coventry University" target="Birkbeck College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Coventry University" target="University of Wales, Newport">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glamorgan-Gwent Archaeological Trust" target="Swansea University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Glamorgan-Gwent Archaeological Trust" target="National Waterfront Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Glamorgan Cricket Club" target="National Waterfront Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glamorgan Cricket Club" target="Cynon Valley Museum &amp; Gallery">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glamorgan Cricket Club" target="University of Glamorgan">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glamorgan Cricket Club" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glamorgan Cricket Club" target="National Museum Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newport City Council" target="University of Wales, Lampeter">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Central Sch of Speech and Drama" target="Half Moon Young People's Theatre">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Central Sch of Speech and Drama" target="Oldham Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Central Sch of Speech and Drama" target="Cyrff Ystwyth">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cyrff Ystwyth" target="Oldham Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cyrff Ystwyth" target="Half Moon Young People's Theatre">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="National Waterfront Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Birkbeck College" target="University of Wales, Newport">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Young Foundation" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Young Foundation" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Young Foundation" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Young Foundation" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Young Foundation" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Markfield Institute" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth Arts Centre" target="LUX">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leicester" target="University of Nottingham">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museum Wales" target="RCAHMW">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museum Wales" target="National Waterfront Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museum Wales" target="Cynon Valley Museum &amp; Gallery">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museum Wales" target="University of Glamorgan">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museum Wales" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museum Wales" target="ESRC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museum Wales" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Barnsley Metropolitan Borough Council" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Barnsley Metropolitan Borough Council" target="Your Back Yard CIC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="Glasgow Life">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="British Library The">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Your Back Yard CIC" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="S4C" target="University of South Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="S4C" target="Royal Television Society Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Library The" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Library The" target="Glasgow Life">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of South Wales" target="Royal Television Society Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="RCAHMW">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="RCAHMS">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="Aberystwyth University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Aberystwyth University" target="Swansea University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="National Welsh College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glamorgan" target="Cynon Valley Museum &amp; Gallery">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glamorgan" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glamorgan" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glamorgan" target="National Waterfront Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glamorgan" target="Swansea University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Waterfront Museum" target="Cynon Valley Museum &amp; Gallery">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Waterfront Museum" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Waterfront Museum" target="Swansea University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="RCAHMW" target="RCAHMS">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snook" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snook" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snook" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snook" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Half Moon Young People's Theatre" target="Oldham Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nesta" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nesta" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nesta" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Ceredigion Museum" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Design Wales" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Design Wales" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Letchworth Garden City Heritage Fn" target="Royal Navy">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cynon Valley Museum &amp; Gallery" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Welsh College" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Cambridge" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Orchestra of the Age of Enlightenment" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Library of Wales" target="Swansea University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Swansea University" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cardiff University" target="Cardiff University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+  </graph>
+</graphml>

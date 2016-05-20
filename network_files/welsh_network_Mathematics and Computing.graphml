@@ -1,0 +1,2825 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d3" />
+  <key attr.name="topic_classified" attr.type="string" for="edge" id="d2" />
+  <key attr.name="country" attr.type="string" for="node" id="d1" />
+  <key attr.name="lad" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="University of Bristol">
+      <data key="d0">Bristol, City of</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Leadin UK">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Bath">
+      <data key="d0">Bath and North East Somerset</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="RED-M">
+      <data key="d0">Horsham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The University of Manchester">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Sun Microsystems">
+      <data key="d0">West Lothian</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="WSP Group plc">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Royal Com Ancient &amp; Historical Monuments">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Gateshead Council">
+      <data key="d0">Gateshead</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Metacause Solutions Ltd">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Arjuna Technologies Ltd">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Science Museum Group">
+      <data key="d0">Kensington and Chelsea</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Solarflare Communications">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Imperial College London">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Medical Research Council">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Oxford">
+      <data key="d0">Oxford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="GE (General Electric Company) UK">
+      <data key="d0">Hammersmith and Fulham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Exeter">
+      <data key="d0">Exeter</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="GE Healthcare">
+      <data key="d0">Chiltern</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Harman Becker Automotive Systems">
+      <data key="d0">Bridgend</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="GSM Association (GSMA)">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Lloyds Banking Group">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="International Centre for Life Trust">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Protect 2020 Ltd">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="O2 (UK) Ltd">
+      <data key="d0">Slough</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Voluntary Organisations' Network NE">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Accelero Digital Solutions Ltd">
+      <data key="d0">Bridgend</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="BAE Systems">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Lancaster University">
+      <data key="d0">Lancaster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="NATS Ltd">
+      <data key="d0">Winchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="We Predict Ltd">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Samsung Electronics Research Institute">
+      <data key="d0">Spelthorne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="cloudBuy">
+      <data key="d0">West Berkshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Loughborough University">
+      <data key="d0">Charnwood</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Hyder Consulting">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Bangor University">
+      <data key="d0">Gwynedd</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Techniquest">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Organic Centre Wales">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Hertfordshire">
+      <data key="d0">Welwyn Hatfield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Home Office">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="British Telecommunications Plc">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Newcastle City Council">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Central Lancashire">
+      <data key="d0">Preston</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Creditsafe Business Solutions Limited">
+      <data key="d0">Caerphilly</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Thinktank Birmingham Science Museum">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="JANET UK">
+      <data key="d0">Vale of White Horse</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Ministry of Defence MOD">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Surrey">
+      <data key="d0">Guildford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="MTG Research Ltd">
+      <data key="d0">Powys</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Sussex">
+      <data key="d0">Brighton and Hove</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="codamotion">
+      <data key="d0">Charnwood</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Essex">
+      <data key="d0">Colchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="S2S Electronics Ltd">
+      <data key="d0">Kirklees</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Red Hats Labs">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="ABM University NHS Trust">
+      <data key="d0">Neath Port Talbot</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="OXFORD INTERNET INSTITUTE">
+      <data key="d0">Oxford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="City and County of Swansea">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Microsoft Research Ltd">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Promethean Ltd">
+      <data key="d0">Blackburn with Darwen</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Arup Group Ltd">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Newcastle University">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Informing Healthcare">
+      <data key="d0">Bridgend</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Royal Town Planning Institute">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Royal Mint (The)">
+      <data key="d0">Rhondda Cynon Taf</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="British Machine Vision Association">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Singleton Hospital">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Open University">
+      <data key="d0">Milton Keynes</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Zarlink Semiconductor">
+      <data key="d0">Monmouthshire</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="GPC Solutions">
+      <data key="d0">South Gloucestershire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Manufacturing Technology Centre">
+      <data key="d0">Nottingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Delcam International plc">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Flooring Technologies Ltd">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Aberystwyth University">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Identity Solutions Ltd">
+      <data key="d0">Tandridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="CPNI">
+      <data key="d0">Wandsworth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Technology Strategy Board">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Assoc Directors of Adult Social Service">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="VocalEyes Digital Democracy">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Edinburgh International Science Festival">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Defence Science &amp; Tech Lab DSTL">
+      <data key="d0">Wiltshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Welsh Government">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Ofcom">
+      <data key="d0">Southwark</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="McAfee Labs">
+      <data key="d0">Aylesbury Vale</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="ESRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Vicon Life">
+      <data key="d0">Vale of White Horse</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Level Business Limited">
+      <data key="d0">Lambeth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Natural Resources Wales">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Leeds">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="SymlConnect">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Gwalia Housing Society Ltd">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="GlaxoSmithKline PLC">
+      <data key="d0">East Hertfordshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Invotec Circuits">
+      <data key="d0">Tamworth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="British Broadcasting Corporation - BBC">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Laing O'Rourke plc">
+      <data key="d0">Dartford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Society of IT Management">
+      <data key="d0">South Northamptonshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="EADS Defense and Security Systems Ltd">
+      <data key="d0">Newport</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Chartered Inst of Water &amp; Environment Mn">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Tech Hub">
+      <data key="d0">Islington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="At-Bristol Limited">
+      <data key="d0">Bristol, City of</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="KET Ltd">
+      <data key="d0">Thurrock</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Nottingham">
+      <data key="d0">Nottingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Motorola">
+      <data key="d0">Basingstoke and Deane</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Fram3">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Brunel University">
+      <data key="d0">Hillingdon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Reflective Thinking">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of the West of England">
+      <data key="d0">South Gloucestershire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Filtronic plc">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Police Scientific Development Branch">
+      <data key="d0">St Albans</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Creo Medical">
+      <data key="d0">Bath and North East Somerset</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Northumberland County Council">
+      <data key="d0">Northumberland</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Keima Ltd">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Blurrt">
+      <data key="d0">Newport</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="General Dynamics UK Ltd">
+      <data key="d0">Caerphilly</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Cardiff Metropolitan University">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="ubisense">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Home Office">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Christie Hospital Charitable Appeals">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Tunstall Healthcare (UK) Ltd">
+      <data key="d0">Selby</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Dwr Cymru Welsh Water">
+      <data key="d0">Caerphilly</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Microsoft">
+      <data key="d0">Wokingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Swansea University">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Ordnance Survey">
+      <data key="d0">Test Valley</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Phasespace">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="GE Aviation">
+      <data key="d0">Eastleigh</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="South Wales Police">
+      <data key="d0">Bridgend</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Cardiff University">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Techniquest Glyndwr">
+      <data key="d0">Wrexham</data>
+      <data key="d1">Wales</data>
+    </node>
+    <edge source="University of Bristol" target="General Dynamics UK Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Defence Science &amp; Tech Lab DSTL">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="ABM University NHS Trust">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="Accelero Digital Solutions Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="SymlConnect">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="Protect 2020 Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="Microsoft Research Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="We Predict Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="McAfee Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="City and County of Swansea">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="Gwalia Housing Society Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Leadin UK" target="GPC Solutions">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bath" target="Cardiff University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RED-M" target="Laing O'Rourke plc">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RED-M" target="Motorola">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RED-M" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Filtronic plc">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="The Christie Hospital Charitable Appeals">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Bangor University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Creo Medical">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sun Microsystems" target="Cardiff Metropolitan University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sun Microsystems" target="Vicon Life">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sun Microsystems" target="codamotion">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sun Microsystems" target="ubisense">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sun Microsystems" target="Phasespace">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sun Microsystems" target="GlaxoSmithKline PLC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="WSP Group plc" target="University of Exeter">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="WSP Group plc" target="University of Leeds">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="WSP Group plc" target="Chartered Inst of Water &amp; Environment Mn">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="WSP Group plc" target="Hyder Consulting">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Com Ancient &amp; Historical Monuments" target="Aberystwyth University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Assoc Directors of Adult Social Service">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Promethean Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Red Hats Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Technology Strategy Board">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Newcastle City Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Voluntary Organisations' Network NE">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Newcastle University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Royal Town Planning Institute">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="cloudBuy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Arup Group Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Arjuna Technologies Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gateshead Council" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Metacause Solutions Ltd" target="Informing Healthcare">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Metacause Solutions Ltd" target="Medical Research Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Metacause Solutions Ltd" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Assoc Directors of Adult Social Service">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Promethean Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Red Hats Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Technology Strategy Board">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Newcastle City Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Newcastle University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Royal Town Planning Institute">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Arup Group Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="Voluntary Organisations' Network NE">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arjuna Technologies Ltd" target="cloudBuy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Science Museum Group" target="Techniquest">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Science Museum Group" target="Aberystwyth University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Science Museum Group" target="Thinktank Birmingham Science Museum">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Science Museum Group" target="Open University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Science Museum Group" target="Edinburgh International Science Festival">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Science Museum Group" target="International Centre for Life Trust">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Science Museum Group" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Science Museum Group" target="Techniquest Glyndwr">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Science Museum Group" target="At-Bristol Limited">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Solarflare Communications" target="NATS Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Solarflare Communications" target="Lancaster University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Solarflare Communications" target="JANET UK">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Solarflare Communications" target="EADS Defense and Security Systems Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="University of Nottingham">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Organic Centre Wales">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="General Dynamics UK Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Identity Solutions Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="The Home Office">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Medical Research Council" target="Informing Healthcare">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="GE (General Electric Company) UK">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="GE Healthcare">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GE (General Electric Company) UK" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GE (General Electric Company) UK" target="Cardiff University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GE (General Electric Company) UK" target="GE Healthcare">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Hyder Consulting">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Chartered Inst of Water &amp; Environment Mn">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="University of Leeds">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GE Healthcare" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Harman Becker Automotive Systems" target="University of Surrey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Harman Becker Automotive Systems" target="Harman Becker Automotive Systems">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GSM Association (GSMA)" target="Microsoft Research Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GSM Association (GSMA)" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lloyds Banking Group" target="Level Business Limited">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lloyds Banking Group" target="Creditsafe Business Solutions Limited">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lloyds Banking Group" target="ESRC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lloyds Banking Group" target="Brunel University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="International Centre for Life Trust" target="Techniquest">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="International Centre for Life Trust" target="Aberystwyth University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="International Centre for Life Trust" target="Thinktank Birmingham Science Museum">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="International Centre for Life Trust" target="Open University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="International Centre for Life Trust" target="Edinburgh International Science Festival">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="International Centre for Life Trust" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="International Centre for Life Trust" target="At-Bristol Limited">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="International Centre for Life Trust" target="Techniquest Glyndwr">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="ABM University NHS Trust">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="Accelero Digital Solutions Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="Microsoft Research Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="GPC Solutions">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="McAfee Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="SymlConnect">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="City and County of Swansea">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="Gwalia Housing Society Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Protect 2020 Ltd" target="We Predict Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="O2 (UK) Ltd" target="Keima Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="O2 (UK) Ltd" target="Ofcom">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="O2 (UK) Ltd" target="Samsung Electronics Research Institute">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Assoc Directors of Adult Social Service">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Royal Town Planning Institute">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Promethean Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Red Hats Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Technology Strategy Board">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Newcastle City Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Newcastle University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="cloudBuy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Arup Group Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Voluntary Organisations' Network NE" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="ABM University NHS Trust">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="City and County of Swansea">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="Microsoft Research Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="GPC Solutions">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="McAfee Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="SymlConnect">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="Gwalia Housing Society Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Accelero Digital Solutions Ltd" target="We Predict Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BAE Systems" target="Cardiff University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="JANET UK">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Dwr Cymru Welsh Water">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Welsh Government">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="NATS Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Natural Resources Wales">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="EADS Defense and Security Systems Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NATS Ltd" target="JANET UK">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NATS Ltd" target="EADS Defense and Security Systems Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="ABM University NHS Trust">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="Microsoft Research Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="GPC Solutions">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="McAfee Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="SymlConnect">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="City and County of Swansea">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="We Predict Ltd" target="Gwalia Housing Society Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Samsung Electronics Research Institute" target="Keima Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Samsung Electronics Research Institute" target="Ofcom">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Assoc Directors of Adult Social Service">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Royal Town Planning Institute">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Promethean Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Red Hats Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Technology Strategy Board">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Newcastle City Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Newcastle University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="cloudBuy" target="Arup Group Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Manufacturing Technology Centre">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Invotec Circuits">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="KET Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Ministry of Defence MOD">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="MTG Research Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="GE Aviation">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="S2S Electronics Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hyder Consulting" target="Chartered Inst of Water &amp; Environment Mn">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hyder Consulting" target="University of Leeds">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Filtronic plc">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="The Christie Hospital Charitable Appeals">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Aberystwyth University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">6</data>
+    </edge>
+    <edge source="Bangor University" target="Creo Medical">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Techniquest" target="Aberystwyth University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Techniquest" target="Thinktank Birmingham Science Museum">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Techniquest" target="Open University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Techniquest" target="Edinburgh International Science Festival">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Techniquest" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Techniquest" target="At-Bristol Limited">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Techniquest" target="Techniquest Glyndwr">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Organic Centre Wales" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Organic Centre Wales" target="University of Nottingham">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Hertfordshire" target="Aberystwyth University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Hertfordshire" target="Open University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Hertfordshire" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Hertfordshire" target="University of Leeds">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Hertfordshire" target="University of Sussex">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Home Office" target="Police Scientific Development Branch">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Home Office" target="Zarlink Semiconductor">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="British Telecommunications Plc" target="Cardiff University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Assoc Directors of Adult Social Service">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Promethean Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Red Hats Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Technology Strategy Board">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Royal Town Planning Institute">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Newcastle University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle City Council" target="Arup Group Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="General Dynamics UK Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Creditsafe Business Solutions Limited" target="Level Business Limited">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Creditsafe Business Solutions Limited" target="ESRC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Creditsafe Business Solutions Limited" target="Brunel University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Thinktank Birmingham Science Museum" target="Aberystwyth University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Thinktank Birmingham Science Museum" target="Techniquest Glyndwr">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Thinktank Birmingham Science Museum" target="Open University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Thinktank Birmingham Science Museum" target="Edinburgh International Science Festival">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Thinktank Birmingham Science Museum" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Thinktank Birmingham Science Museum" target="At-Bristol Limited">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="JANET UK" target="EADS Defense and Security Systems Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministry of Defence MOD" target="Manufacturing Technology Centre">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministry of Defence MOD" target="MTG Research Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministry of Defence MOD" target="S2S Electronics Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministry of Defence MOD" target="KET Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministry of Defence MOD" target="Invotec Circuits">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministry of Defence MOD" target="GE Aviation">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MTG Research Ltd" target="Manufacturing Technology Centre">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MTG Research Ltd" target="S2S Electronics Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MTG Research Ltd" target="KET Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MTG Research Ltd" target="Invotec Circuits">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="MTG Research Ltd" target="GE Aviation">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Aberystwyth University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Open University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="University of Leeds">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="codamotion" target="ubisense">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="codamotion" target="Cardiff Metropolitan University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="codamotion" target="Vicon Life">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="codamotion" target="Phasespace">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="codamotion" target="GlaxoSmithKline PLC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Essex" target="British Machine Vision Association">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="S2S Electronics Ltd" target="Manufacturing Technology Centre">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="S2S Electronics Ltd" target="KET Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="S2S Electronics Ltd" target="Invotec Circuits">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="S2S Electronics Ltd" target="GE Aviation">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Assoc Directors of Adult Social Service">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Promethean Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Technology Strategy Board">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Royal Town Planning Institute">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Newcastle University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Arup Group Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Red Hats Labs" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="SymlConnect">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="City and County of Swansea">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="Microsoft Research Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="McAfee Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="Gwalia Housing Society Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ABM University NHS Trust" target="GPC Solutions">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="OXFORD INTERNET INSTITUTE" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="Microsoft Research Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="GPC Solutions">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="McAfee Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="SymlConnect">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City and County of Swansea" target="Gwalia Housing Society Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="McAfee Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="SymlConnect">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="GPC Solutions">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Gwalia Housing Society Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="Assoc Directors of Adult Social Service">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="Technology Strategy Board">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="Royal Town Planning Institute">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="Newcastle University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="Arup Group Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Promethean Ltd" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="Royal Town Planning Institute">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="Newcastle University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="Assoc Directors of Adult Social Service">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arup Group Ltd" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Royal Town Planning Institute">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Assoc Directors of Adult Social Service">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Informing Healthcare" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Town Planning Institute" target="Assoc Directors of Adult Social Service">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Town Planning Institute" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Town Planning Institute" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Town Planning Institute" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Town Planning Institute" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Town Planning Institute" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Town Planning Institute" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Town Planning Institute" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Town Planning Institute" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Town Planning Institute" target="Technology Strategy Board">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Town Planning Institute" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Mint (The)" target="Cardiff University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Mint (The)" target="Delcam International plc">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Singleton Hospital" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Open University" target="At-Bristol Limited">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="Edinburgh International Science Festival">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="Techniquest Glyndwr">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="University of Leeds">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Zarlink Semiconductor" target="Police Scientific Development Branch">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Zarlink Semiconductor" target="Zarlink Semiconductor">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GPC Solutions" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GPC Solutions" target="SymlConnect">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GPC Solutions" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GPC Solutions" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GPC Solutions" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GPC Solutions" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GPC Solutions" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GPC Solutions" target="McAfee Labs">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GPC Solutions" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GPC Solutions" target="Gwalia Housing Society Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Manufacturing Technology Centre" target="GE Aviation">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Manufacturing Technology Centre" target="Invotec Circuits">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Manufacturing Technology Centre" target="KET Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Delcam International plc" target="Cardiff University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Flooring Technologies Ltd" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Aberystwyth University" target="At-Bristol Limited">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="Edinburgh International Science Festival">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="Techniquest Glyndwr">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="University of Leeds">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Identity Solutions Ltd" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Identity Solutions Ltd" target="General Dynamics UK Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Identity Solutions Ltd" target="The Home Office">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CPNI" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="CPNI" target="ESRC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Assoc Directors of Adult Social Service">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Assoc Directors of Adult Social Service" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Assoc Directors of Adult Social Service" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Assoc Directors of Adult Social Service" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Assoc Directors of Adult Social Service" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Assoc Directors of Adult Social Service" target="VocalEyes Digital Democracy">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Assoc Directors of Adult Social Service" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Assoc Directors of Adult Social Service" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Assoc Directors of Adult Social Service" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Assoc Directors of Adult Social Service" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VocalEyes Digital Democracy" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VocalEyes Digital Democracy" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VocalEyes Digital Democracy" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VocalEyes Digital Democracy" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VocalEyes Digital Democracy" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VocalEyes Digital Democracy" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VocalEyes Digital Democracy" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="VocalEyes Digital Democracy" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Edinburgh International Science Festival" target="Techniquest Glyndwr">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Edinburgh International Science Festival" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Edinburgh International Science Festival" target="At-Bristol Limited">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Defence Science &amp; Tech Lab DSTL" target="General Dynamics UK Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ofcom" target="Keima Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="McAfee Labs" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="McAfee Labs" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="McAfee Labs" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="McAfee Labs" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="McAfee Labs" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="McAfee Labs" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="McAfee Labs" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="McAfee Labs" target="SymlConnect">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="McAfee Labs" target="Gwalia Housing Society Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ESRC" target="Level Business Limited">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ESRC" target="Brunel University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ESRC" target="Cardiff University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Vicon Life" target="ubisense">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Vicon Life" target="Cardiff Metropolitan University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Vicon Life" target="Phasespace">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Vicon Life" target="GlaxoSmithKline PLC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Level Business Limited" target="Brunel University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural Resources Wales" target="Dwr Cymru Welsh Water">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="Chartered Inst of Water &amp; Environment Mn">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SymlConnect" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SymlConnect" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SymlConnect" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SymlConnect" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SymlConnect" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SymlConnect" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SymlConnect" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SymlConnect" target="Gwalia Housing Society Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gwalia Housing Society Ltd" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gwalia Housing Society Ltd" target="British Broadcasting Corporation - BBC">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gwalia Housing Society Ltd" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gwalia Housing Society Ltd" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gwalia Housing Society Ltd" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gwalia Housing Society Ltd" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gwalia Housing Society Ltd" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GlaxoSmithKline PLC" target="Cardiff Metropolitan University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GlaxoSmithKline PLC" target="ubisense">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GlaxoSmithKline PLC" target="Phasespace">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Invotec Circuits" target="KET Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Invotec Circuits" target="GE Aviation">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Society of IT Management">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Tech Hub">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Broadcasting Corporation - BBC" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Laing O'Rourke plc" target="Motorola">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Laing O'Rourke plc" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Society of IT Management" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Society of IT Management" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Society of IT Management" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Society of IT Management" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Society of IT Management" target="Reflective Thinking">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Society of IT Management" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tech Hub" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tech Hub" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tech Hub" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tech Hub" target="Drivers &amp; Vehicle Licensing Agency">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tech Hub" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="At-Bristol Limited" target="University of the West of England">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="At-Bristol Limited" target="Techniquest Glyndwr">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="KET Ltd" target="GE Aviation">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Nottingham" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Motorola" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Drivers &amp; Vehicle Licensing Agency" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Drivers &amp; Vehicle Licensing Agency" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Drivers &amp; Vehicle Licensing Agency" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Drivers &amp; Vehicle Licensing Agency" target="Fram3">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fram3" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fram3" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fram3" target="Blurrt">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Reflective Thinking" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Reflective Thinking" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Reflective Thinking" target="Northumberland County Council">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Reflective Thinking" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Reflective Thinking" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of the West of England" target="Techniquest Glyndwr">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of the West of England" target="General Dynamics UK Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of the West of England" target="The Home Office">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Filtronic plc" target="Creo Medical">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Filtronic plc" target="The Christie Hospital Charitable Appeals">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Creo Medical" target="The Christie Hospital Charitable Appeals">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumberland County Council" target="NHS Newcastle West Clinical Commiss Grp">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumberland County Council" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumberland County Council" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumberland County Council" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NHS Newcastle West Clinical Commiss Grp" target="Tunstall Healthcare (UK) Ltd">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NHS Newcastle West Clinical Commiss Grp" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NHS Newcastle West Clinical Commiss Grp" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Blurrt" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Blurrt" target="Swansea University">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="General Dynamics UK Ltd" target="The Home Office">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Cardiff Metropolitan University" target="ubisense">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cardiff Metropolitan University" target="Phasespace">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ubisense" target="Phasespace">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tunstall Healthcare (UK) Ltd" target="Microsoft">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tunstall Healthcare (UK) Ltd" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft" target="Ordnance Survey">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Swansea University" target="South Wales Police">
+      <data key="d2">Mathematics and Computing</data>
+      <data key="d3">1</data>
+    </edge>
+  </graph>
+</graphml>

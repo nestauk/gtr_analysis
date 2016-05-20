@@ -1,0 +1,2377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d3" />
+  <key attr.name="topic_classified" attr.type="string" for="edge" id="d2" />
+  <key attr.name="country" attr.type="string" for="node" id="d1" />
+  <key attr.name="lad" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="City of Edinburgh Council">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Bath">
+      <data key="d0">Bath and North East Somerset</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="British Council">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Keele University">
+      <data key="d0">Newcastle-under-Lyme</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="NIHR CLAHRC for South Yorkshire">
+      <data key="d0">Sheffield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Glasgow School of Art">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Edinburgh Napier University">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Buxton Festival">
+      <data key="d0">High Peak</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Lancaster University">
+      <data key="d0">Lancaster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of St Andrews">
+      <data key="d0">Fife</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The Sixth Form College Colchester">
+      <data key="d0">Colchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Cultural Enterprise Office">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Durham County Council">
+      <data key="d0">County Durham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Convention of Scottish Local Authorities">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Ecclesiastical Insurance Group">
+      <data key="d0">Gloucester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The National Gallery">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Gifford">
+      <data key="d0">Southwark</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Queen Mary, University of London">
+      <data key="d0">Tower Hamlets</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Sheffield Hallam University">
+      <data key="d0">Sheffield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Manor Gardens Welfare Trust">
+      <data key="d0">Islington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Royal Northern College of Music">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Southampton">
+      <data key="d0">Southampton</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Finance Foundation">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Victoria and Albert Museum">
+      <data key="d0">Kensington and Chelsea</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Sinai Synagogue Leeds">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Glasgow">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The Holmewood School">
+      <data key="d0">Barnet</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Borders Council">
+      <data key="d0">Scottish Borders</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The National Archives">
+      <data key="d0">Richmond upon Thames</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Brighton Early Music">
+      <data key="d0">Brighton and Hove</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Loughborough University">
+      <data key="d0">Charnwood</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="De Montfort University">
+      <data key="d0">Leicester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Stables Wavendon">
+      <data key="d0">Milton Keynes</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Creative Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Centre for the Moving Image">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of the Highlands and Islands">
+      <data key="d0">Highland</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The National Trust">
+      <data key="d0">St Edmundsbury</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Homerton College">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="East Ayrshire Council">
+      <data key="d0">East Ayrshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The Anne Frank Trust">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Argyll and Bute Council">
+      <data key="d0">Argyll and Bute</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Scottish Women's Aid">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The Design Council">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Salisbury International Arts Festival">
+      <data key="d0">Wiltshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Henry Moore Institute">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Liverpool">
+      <data key="d0">Liverpool</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Civic Trust">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The British Museum">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Central Lancashire">
+      <data key="d0">Preston</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="British Film Institute">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scotland Russia Forum">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Coventry University">
+      <data key="d0">Coventry</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Volterra Partners LLP">
+      <data key="d0">Wandsworth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Cambridge Early Music">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Italian Cultural Institute">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Royal College of Art">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Northumbria University">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Glasgow Caledonian University">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Dundee Contemporary Arts">
+      <data key="d0">Dundee City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Dundee">
+      <data key="d0">Dundee City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="EPSRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="English Heritage">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Opera North">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Swaledale Festival">
+      <data key="d0">Richmondshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="British Library The">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Hunterian Museum and Art Gallery">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The Nash Ensemble of London">
+      <data key="d0">Croydon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Royal College of Physicians of Edinburgh">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="National Trust for Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Newcastle University">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Scottish Government">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="ecoartscotland">
+      <data key="d0">South Ayrshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The Robert Gordon University">
+      <data key="d0">Aberdeen City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Nile">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Birmingham">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Stirling">
+      <data key="d0">Stirling</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Stills (Scotlands Ctr for Photography)">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Saracens Rugby club">
+      <data key="d0">Barnet</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University College London">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Georgian Concert Society">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Open University">
+      <data key="d0">Milton Keynes</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Young Foundation">
+      <data key="d0">Tower Hamlets</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Alzheimer Scotland - Action on Dementia">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="National Museums Liverpool">
+      <data key="d0">Liverpool</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Maidstone Museum">
+      <data key="d0">Maidstone</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Theatre Cryptic">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="42nd Street">
+      <data key="d0">South Lanarkshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Orkney Library and Archive">
+      <data key="d0">Orkney Islands</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Strathclyde">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Motherwell College">
+      <data key="d0">North Lanarkshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Oxford">
+      <data key="d0">Oxford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Woodend Barn">
+      <data key="d0">Aberdeenshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Innovation Unit">
+      <data key="d0">Hackney</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Theatre Company Blah Blah Blah">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Livework Studio Ltd">
+      <data key="d0">Islington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of East Anglia">
+      <data key="d0">Norwich</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="City University London">
+      <data key="d0">Islington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="LUX">
+      <data key="d0">Hackney</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Millar Howard Workshop Ltd">
+      <data key="d0">Stroud</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="RCAHMS">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Eatec Ltd">
+      <data key="d0">South Gloucestershire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Owlstone Limited">
+      <data key="d0">South Cambridgeshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="ESRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Glasgow Life">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Sheffield">
+      <data key="d0">Sheffield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Snook">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Nesta">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Didasko">
+      <data key="d0">Midlothian</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The University of Manchester">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of the West of Scotland">
+      <data key="d0">Renfrewshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Leeds">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Historic Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Aberystwyth Arts Centre">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Learning and Teaching Scotland">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Scottish Arts Council">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Westinghouse">
+      <data key="d0">Tower Hamlets</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Drummond Community High School">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Scottish Screen">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="IHBC (Inst of Historic Building Conserv)">
+      <data key="d0">Wiltshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="ARC Chartered Architects">
+      <data key="d0">Fife</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="National Galleries of Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Scottish Language Dictionaries">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Scottish Storytelling Centre">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The National Library of Wales">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Taylor Haig Foundation">
+      <data key="d0">Rushcliffe</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Linn Product Limited">
+      <data key="d0">East Renfrewshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Holocaust Survivors Friendship Assoc.">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="National Museums of Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="National Records of Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Cambridge">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Foreign and Commonwealth Office">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Bristol">
+      <data key="d0">Bristol, City of</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Royal Conservatoire of Scotland">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Heriot-Watt University">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Museum Ethnographers Group">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Hans Gal Society">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Council for British Archaeology">
+      <data key="d0">York</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Brighton Museum and Art Gallery">
+      <data key="d0">Brighton and Hove</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="National Archives of Scotland">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The Clore Leadership Programme">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Young Enterprise">
+      <data key="d0">Islington</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The National Centre for Early Music">
+      <data key="d0">York</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Design Wales">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="The Royal Society of London">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Shetland Museum and Archives">
+      <data key="d0">Shetland Islands</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Ordnance Survey">
+      <data key="d0">Test Valley</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Method Europe">
+      <data key="d0">Hackney</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Young Vic">
+      <data key="d0">Southwark</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Durham University">
+      <data key="d0">County Durham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Evangelical Alliance">
+      <data key="d0">Lambeth</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of York">
+      <data key="d0">York</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Encounters Arts">
+      <data key="d0">South Hams</data>
+      <data key="d1">England</data>
+    </node>
+    <edge source="City of Edinburgh Council" target="Newcastle University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="City of Edinburgh Council" target="British Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bath" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bath" target="ARC Chartered Architects">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bath" target="Eatec Ltd">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bath" target="Ecclesiastical Insurance Group">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bath" target="The National Trust">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bath" target="National Trust for Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bath" target="Gifford">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bath" target="EPSRC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Council" target="Newcastle University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Keele University" target="University of Glasgow">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NIHR CLAHRC for South Yorkshire" target="Sheffield Hallam University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NIHR CLAHRC for South Yorkshire" target="Glasgow School of Art">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NIHR CLAHRC for South Yorkshire" target="University of Sheffield">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NIHR CLAHRC for South Yorkshire" target="Royal College of Art">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="NIHR CLAHRC for South Yorkshire" target="Coventry University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="The Design Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="The University of Manchester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Sheffield Hallam University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="University of Sheffield">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Royal College of Art">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Lancaster University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Loughborough University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Theatre Cryptic">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Northumbria University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Coventry University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow School of Art" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Edinburgh Napier University" target="Scottish Arts Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Edinburgh Napier University" target="Convention of Scottish Local Authorities">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Edinburgh Napier University" target="Edinburgh Napier University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Edinburgh Napier University" target="The Scottish Government">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Buxton Festival" target="University of Southampton">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Buxton Festival" target="Salisbury International Arts Festival">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Buxton Festival" target="Swaledale Festival">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Buxton Festival" target="The Stables Wavendon">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Buxton Festival" target="Linn Product Limited">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Method Europe">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="The University of Manchester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Sheffield Hallam University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="The Design Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Lancaster University" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Livework Studio Ltd">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Loughborough University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Northumbria University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Lancaster University" target="Alzheimer Scotland - Action on Dementia">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Nile">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Innovation Unit">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lancaster University" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="The Royal Society of London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Liverpool">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Sheffield">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Sixth Form College Colchester" target="University of York">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Sixth Form College Colchester" target="Royal Conservatoire of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cultural Enterprise Office" target="University of Glasgow">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Durham County Council" target="IHBC (Inst of Historic Building Conserv)">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Durham County Council" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Durham County Council" target="Scottish Civic Trust">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Durham County Council" target="Durham University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Durham County Council" target="Millar Howard Workshop Ltd">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Convention of Scottish Local Authorities" target="The Scottish Government">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Convention of Scottish Local Authorities" target="Scottish Arts Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ecclesiastical Insurance Group" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ecclesiastical Insurance Group" target="The National Trust">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ecclesiastical Insurance Group" target="Gifford">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ecclesiastical Insurance Group" target="ARC Chartered Architects">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ecclesiastical Insurance Group" target="National Trust for Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ecclesiastical Insurance Group" target="EPSRC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ecclesiastical Insurance Group" target="Eatec Ltd">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Gallery" target="University of Leeds">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Gallery" target="National Galleries of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gifford" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gifford" target="The National Trust">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gifford" target="EPSRC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gifford" target="ARC Chartered Architects">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gifford" target="National Trust for Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gifford" target="Eatec Ltd">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Queen Mary, University of London" target="Saracens Rugby club">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Queen Mary, University of London" target="Motherwell College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Queen Mary, University of London" target="Manor Gardens Welfare Trust">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="The Design Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="The University of Manchester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="University of Sheffield">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Loughborough University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Royal College of Art">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Coventry University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sheffield Hallam University" target="Northumbria University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Manor Gardens Welfare Trust" target="Motherwell College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Manor Gardens Welfare Trust" target="Saracens Rugby club">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Northern College of Music" target="The Anne Frank Trust">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Northern College of Music" target="The Nash Ensemble of London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Northern College of Music" target="Opera North">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Northern College of Music" target="Holocaust Survivors Friendship Assoc.">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Northern College of Music" target="Sinai Synagogue Leeds">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Northern College of Music" target="The Hans Gal Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Northern College of Music" target="University of Leeds">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Northern College of Music" target="The National Archives">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Northern College of Music" target="Theatre Company Blah Blah Blah">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Northern College of Music" target="British Library The">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Northern College of Music" target="English Heritage">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Georgian Concert Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Swaledale Festival">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Cambridge Early Music">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Finance Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="The Stables Wavendon">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Salisbury International Arts Festival">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Linn Product Limited">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Young Enterprise">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Didasko">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Durham University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="Brighton Early Music">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="The National Centre for Early Music">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Finance Foundation" target="Young Enterprise">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Finance Foundation" target="Didasko">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Victoria and Albert Museum" target="Henry Moore Institute">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sinai Synagogue Leeds" target="The Anne Frank Trust">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sinai Synagogue Leeds" target="The Nash Ensemble of London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sinai Synagogue Leeds" target="Opera North">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sinai Synagogue Leeds" target="Holocaust Survivors Friendship Assoc.">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sinai Synagogue Leeds" target="The Hans Gal Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sinai Synagogue Leeds" target="University of Leeds">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sinai Synagogue Leeds" target="The National Archives">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sinai Synagogue Leeds" target="Theatre Company Blah Blah Blah">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sinai Synagogue Leeds" target="British Library The">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sinai Synagogue Leeds" target="English Heritage">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Scottish Language Dictionaries">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Scottish Storytelling Centre">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Henry Moore Institute">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="National Records of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Foreign and Commonwealth Office">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Oxford">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="RCAHMS">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="ESRC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="National Trust for Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="Hunterian Museum and Art Gallery">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Royal College of Physicians of Edinburgh">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="The National Archives">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Volterra Partners LLP">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Learning and Teaching Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Westinghouse">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="Scottish Women's Aid">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Holmewood School" target="ecoartscotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Holmewood School" target="Woodend Barn">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Holmewood School" target="University of Central Lancashire">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Holmewood School" target="Encounters Arts">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Borders Council" target="National Museums of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="The National Archives" target="National Records of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="Holocaust Survivors Friendship Assoc.">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="Theatre Company Blah Blah Blah">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="Opera North">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="The Anne Frank Trust">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="The Hans Gal Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="University of Leeds">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="The Nash Ensemble of London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="British Library The">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Archives" target="English Heritage">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Brighton Early Music" target="The National Centre for Early Music">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Brighton Early Music" target="Durham University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Brighton Early Music" target="Georgian Concert Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Brighton Early Music" target="Cambridge Early Music">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Northumbria University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="The University of Manchester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="The Design Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Loughborough University" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="De Montfort University" target="Scottish Screen">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="De Montfort University" target="British Film Institute">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Stables Wavendon" target="Salisbury International Arts Festival">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Stables Wavendon" target="Swaledale Festival">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Stables Wavendon" target="Linn Product Limited">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Creative Scotland" target="The Robert Gordon University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Creative Scotland" target="The Clore Leadership Programme">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Centre for the Moving Image" target="LUX">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Centre for the Moving Image" target="Aberystwyth Arts Centre">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of the Highlands and Islands" target="University of Stirling">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of the Highlands and Islands" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of the Highlands and Islands" target="University of the West of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of the Highlands and Islands" target="RCAHMS">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="EPSRC">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="ARC Chartered Architects">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="Eatec Ltd">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Trust" target="National Trust for Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Homerton College" target="RCAHMS">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Homerton College" target="University of Sheffield">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Homerton College" target="Henry Moore Institute">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Homerton College" target="University of Birmingham">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Homerton College" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Homerton College" target="English Heritage">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="East Ayrshire Council" target="Learning and Teaching Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Anne Frank Trust" target="The Nash Ensemble of London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Anne Frank Trust" target="Opera North">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Anne Frank Trust" target="Holocaust Survivors Friendship Assoc.">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Anne Frank Trust" target="The Hans Gal Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Anne Frank Trust" target="University of Leeds">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Anne Frank Trust" target="Theatre Company Blah Blah Blah">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Anne Frank Trust" target="British Library The">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Anne Frank Trust" target="English Heritage">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Argyll and Bute Council" target="University of Strathclyde">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="The University of Manchester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="Northumbria University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Design Council" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salisbury International Arts Festival" target="Swaledale Festival">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Salisbury International Arts Festival" target="Linn Product Limited">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Henry Moore Institute" target="RCAHMS">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Henry Moore Institute" target="University of Sheffield">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Henry Moore Institute" target="University of Birmingham">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Henry Moore Institute" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Henry Moore Institute" target="English Heritage">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Liverpool" target="University of Sheffield">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Civic Trust" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Civic Trust" target="IHBC (Inst of Historic Building Conserv)">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Civic Trust" target="Durham University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Scottish Civic Trust" target="Millar Howard Workshop Ltd">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The British Museum" target="National Museums of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The British Museum" target="Maidstone Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The British Museum" target="Glasgow Life">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The British Museum" target="Brighton Museum and Art Gallery">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The British Museum" target="University of East Anglia">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The British Museum" target="National Museums Liverpool">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The British Museum" target="University of Oxford">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The British Museum" target="University College London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Woodend Barn">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="ecoartscotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Encounters Arts">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Film Institute" target="Scottish Screen">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scotland Russia Forum" target="Scottish Storytelling Centre">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Coventry University" target="University of Sheffield">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Coventry University" target="Royal College of Art">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cambridge Early Music" target="The National Centre for Early Music">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cambridge Early Music" target="Durham University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cambridge Early Music" target="Georgian Concert Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Italian Cultural Institute" target="Drummond Community High School">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Italian Cultural Institute" target="Stills (Scotlands Ctr for Photography)">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Italian Cultural Institute" target="University of Bristol">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="Alzheimer Scotland - Action on Dementia">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="The University of Manchester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Northumbria University" target="Taylor Haig Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="The Scottish Government">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Northumbria University" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow Caledonian University" target="Newcastle University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow Caledonian University" target="City University London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Dundee Contemporary Arts" target="University of Dundee">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="University of Stirling">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="The Young Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="The University of Manchester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="University of the West of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Dundee" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="ARC Chartered Architects">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="Eatec Ltd">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="National Archives of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="Owlstone Limited">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="National Trust for Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="National Museums of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="University of Strathclyde">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="English Heritage">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="Theatre Company Blah Blah Blah">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="Opera North">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="National Archives of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="Owlstone Limited">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="British Library The">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="University of Sheffield">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="Holocaust Survivors Friendship Assoc.">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="National Museums of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="Council for British Archaeology">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="The Nash Ensemble of London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="University of Strathclyde">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="University of Birmingham">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="University of Leeds">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="English Heritage" target="The Hans Gal Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Opera North" target="The Nash Ensemble of London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Opera North" target="Holocaust Survivors Friendship Assoc.">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Opera North" target="The Hans Gal Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Opera North" target="University of Leeds">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Opera North" target="Theatre Company Blah Blah Blah">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Opera North" target="British Library The">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Swaledale Festival" target="Linn Product Limited">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Library The" target="Theatre Company Blah Blah Blah">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Library The" target="Glasgow Life">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Library The" target="Holocaust Survivors Friendship Assoc.">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Library The" target="The Nash Ensemble of London">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Library The" target="Open University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Library The" target="University of Leeds">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="British Library The" target="The Hans Gal Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Nash Ensemble of London" target="Holocaust Survivors Friendship Assoc.">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Nash Ensemble of London" target="The Hans Gal Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Nash Ensemble of London" target="University of Leeds">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Nash Ensemble of London" target="Theatre Company Blah Blah Blah">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Trust for Scotland" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Trust for Scotland" target="Westinghouse">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Trust for Scotland" target="ARC Chartered Architects">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Trust for Scotland" target="Eatec Ltd">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Taylor Haig Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Scottish Government" target="Scottish Arts Council">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ecoartscotland" target="Woodend Barn">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ecoartscotland" target="Encounters Arts">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Robert Gordon University" target="The Clore Leadership Programme">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Robert Gordon University" target="Heriot-Watt University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nile" target="Innovation Unit">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nile" target="Method Europe">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nile" target="Livework Studio Ltd">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nile" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="Evangelical Alliance">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Stirling" target="University of the West of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Stills (Scotlands Ctr for Photography)" target="University of Bristol">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Stills (Scotlands Ctr for Photography)" target="Drummond Community High School">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Saracens Rugby club" target="Motherwell College">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="Glasgow Life">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="Brighton Museum and Art Gallery">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Georgian Concert Society" target="The National Centre for Early Music">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Georgian Concert Society" target="Durham University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="Glasgow Life">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="The National Library of Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Young Foundation" target="The University of Manchester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Young Foundation" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Young Foundation" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Young Foundation" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Young Foundation" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Young Foundation" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museums Liverpool" target="Maidstone Museum">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museums Liverpool" target="University of Oxford">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museums Liverpool" target="National Museums of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museums Liverpool" target="University of East Anglia">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Maidstone Museum" target="University of Oxford">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Maidstone Museum" target="National Museums of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Maidstone Museum" target="University of East Anglia">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="42nd Street" target="Young Vic">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Orkney Library and Archive" target="Shetland Museum and Archives">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="National Archives of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="Owlstone Limited">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="National Museums of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Strathclyde" target="Learning and Teaching Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="National Museums of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="University of East Anglia">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Woodend Barn" target="Encounters Arts">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Innovation Unit" target="Method Europe">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Innovation Unit" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Innovation Unit" target="Livework Studio Ltd">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Theatre Company Blah Blah Blah" target="Holocaust Survivors Friendship Assoc.">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Theatre Company Blah Blah Blah" target="The Hans Gal Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Theatre Company Blah Blah Blah" target="University of Leeds">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Livework Studio Ltd" target="Method Europe">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Livework Studio Ltd" target="Snook">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of East Anglia" target="National Museums of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of East Anglia" target="Museum Ethnographers Group">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="LUX" target="Aberystwyth Arts Centre">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Millar Howard Workshop Ltd" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Millar Howard Workshop Ltd" target="IHBC (Inst of Historic Building Conserv)">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Millar Howard Workshop Ltd" target="Durham University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="RCAHMS" target="The University of Manchester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RCAHMS" target="University of Sheffield">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RCAHMS" target="University of the West of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RCAHMS" target="Council for British Archaeology">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="RCAHMS" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Eatec Ltd" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Eatec Ltd" target="ARC Chartered Architects">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Owlstone Limited" target="National Archives of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Owlstone Limited" target="National Museums of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow Life" target="Brighton Museum and Art Gallery">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snook" target="The University of Manchester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snook" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snook" target="Method Europe">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snook" target="Taylor Haig Foundation">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snook" target="Nesta">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snook" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Snook" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nesta" target="The University of Manchester">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nesta" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nesta" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nesta" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Didasko" target="Young Enterprise">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="University of Cambridge">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Historic Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Council for British Archaeology">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="National Galleries of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="Holocaust Survivors Friendship Assoc.">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Leeds" target="The Hans Gal Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Historic Scotland" target="IHBC (Inst of Historic Building Conserv)">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Historic Scotland" target="Durham University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Historic Scotland" target="ARC Chartered Architects">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Historic Scotland" target="Council for British Archaeology">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Drummond Community High School" target="University of Bristol">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="IHBC (Inst of Historic Building Conserv)" target="Durham University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Holocaust Survivors Friendship Assoc." target="The Hans Gal Society">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museums of Scotland" target="National Museums of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museums of Scotland" target="Museum Ethnographers Group">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Museums of Scotland" target="National Archives of Scotland">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Cambridge" target="Design Wales">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Cambridge" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal Conservatoire of Scotland" target="University of York">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The National Centre for Early Music" target="Durham University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Design Wales" target="Ordnance Survey">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Durham University" target="Durham University">
+      <data key="d2">Arts and Humanities</data>
+      <data key="d3">1</data>
+    </edge>
+  </graph>
+</graphml>
