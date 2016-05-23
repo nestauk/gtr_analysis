@@ -2,3 +2,5 @@ gtr/*
 *config.json*
 .cache
 temp
+notebooks/python-louvain
+notebooks/lut.csv
