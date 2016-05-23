@@ -1,0 +1,1613 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d3" />
+  <key attr.name="topic_classified" attr.type="string" for="edge" id="d2" />
+  <key attr.name="country" attr.type="string" for="node" id="d1" />
+  <key attr.name="lad" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="University of Bristol">
+      <data key="d0">Bristol, City of</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="BBSRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="EBLEX">
+      <data key="d0">Warwick</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Imperial College London">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Oxford">
+      <data key="d0">Oxford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Exeter">
+      <data key="d0">Exeter</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Glasgow">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Hybu Cig Cymru">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Lisk &amp; Jones Consultants Ltd">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Hockley International Ltd">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="National Institutes of Health (NIH)">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Bangor University">
+      <data key="d0">Gwynedd</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Shell Global Solutions UK">
+      <data key="d0">Cheshire West and Chester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Royal College of Art">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Natural Environment Research Council">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="EPSRC">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Visbion Ltd">
+      <data key="d0">Runnymede</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Landcatch Ltd">
+      <data key="d0">Argyll and Bute</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Microsoft Research Ltd">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Oxitec Ltd">
+      <data key="d0">Vale of White Horse</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Newcastle University">
+      <data key="d0">Newcastle upon Tyne</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Syngenta Ltd">
+      <data key="d0">Bracknell Forest</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Marine Harvest Scotland Ltd">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University College London">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Life Technologies Limited">
+      <data key="d0">Renfrewshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Heat Pumps South West">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Agilent Technologies UK Ltd">
+      <data key="d0">Wokingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Lumora Ltd">
+      <data key="d0">East Cambridgeshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Aberystwyth University">
+      <data key="d0">Ceredigion</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Technology Strategy Board">
+      <data key="d0">Swindon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Pulse Medical Technologies Ltd">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Defence Science &amp; Tech Lab DSTL">
+      <data key="d0">Wiltshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="New-Food Innovation">
+      <data key="d0">Rushcliffe</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Sheffield">
+      <data key="d0">Sheffield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="GlaxoSmithKline PLC">
+      <data key="d0">East Hertfordshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="MRC National Inst for Medical Research">
+      <data key="d0">Barnet</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Anglesey Aquaculture Ltd">
+      <data key="d0">Isle of Anglesey</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Oil Plus Ltd">
+      <data key="d0">West Berkshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Birmingham">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Nottingham">
+      <data key="d0">Nottingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Suterra UK">
+      <data key="d0">Rhondda Cynon Taf</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Cambridge">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="ReInnervate Ltd">
+      <data key="d0">County Durham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Ruskinn Technology Ltd">
+      <data key="d0">Bridgend</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Swansea University">
+      <data key="d0">Swansea</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Durham University">
+      <data key="d0">County Durham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Cardiff University">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <edge source="University of Bristol" target="Shell Global Solutions UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Hockley International Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Visbion Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="University of Glasgow">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Royal College of Art">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="University of Exeter">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Bangor University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Microsoft Research Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Lisk &amp; Jones Consultants Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BBSRC" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="BBSRC" target="Aberystwyth University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EBLEX" target="Hybu Cig Cymru">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EBLEX" target="University of Nottingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="MRC National Inst for Medical Research">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Hockley International Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Visbion Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="University of Glasgow">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Royal College of Art">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Bangor University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Lisk &amp; Jones Consultants Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Imperial College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Newcastle University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="Heat Pumps South West">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Imperial College London" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Oxford" target="Shell Global Solutions UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Hockley International Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Visbion Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="University of Glasgow">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Royal College of Art">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="University of Exeter">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Bangor University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Microsoft Research Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Lisk &amp; Jones Consultants Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Newcastle University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Shell Global Solutions UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Hockley International Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Visbion Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="University of Glasgow">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Royal College of Art">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Anglesey Aquaculture Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">4</data>
+    </edge>
+    <edge source="University of Exeter" target="University of Exeter">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Exeter" target="Bangor University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="University College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Microsoft Research Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="Lisk &amp; Jones Consultants Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Exeter" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Shell Global Solutions UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Microsoft Research Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Visbion Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Royal College of Art">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Bangor University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Hockley International Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Lisk &amp; Jones Consultants Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Newcastle University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hybu Cig Cymru" target="University of Nottingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Royal College of Art">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Microsoft Research Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Shell Global Solutions UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Visbion Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Bangor University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="University College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Newcastle University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Hockley International Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lisk &amp; Jones Consultants Ltd" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Royal College of Art">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Shell Global Solutions UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Visbion Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Bangor University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="University College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Newcastle University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Microsoft Research Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hockley International Ltd" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Institutes of Health (NIH)" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Shell Global Solutions UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Visbion Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Royal College of Art">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="University College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Microsoft Research Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="Newcastle University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Bangor University" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Royal College of Art">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Microsoft Research Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Visbion Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="University College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Newcastle University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Shell Global Solutions UK" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Visbion Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="University College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Newcastle University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Microsoft Research Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Royal College of Art" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural Environment Research Council" target="Aberystwyth University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="EPSRC" target="Defence Science &amp; Tech Lab DSTL">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="University College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="Newcastle University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="Microsoft Research Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Visbion Ltd" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Landcatch Ltd" target="Marine Harvest Scotland Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Landcatch Ltd" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Oxitec Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="University College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Newcastle University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Microsoft Research Ltd" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="University College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="Newcastle University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oxitec Ltd" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Syngenta Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Agilent Technologies UK Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Newcastle University" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="University College London">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Syngenta Ltd" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Marine Harvest Scotland Ltd" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University College London" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Life Technologies Limited" target="Ruskinn Technology Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Life Technologies Limited" target="ReInnervate Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Life Technologies Limited" target="Durham University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heat Pumps South West" target="MRC National Inst for Medical Research">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agilent Technologies UK Ltd" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agilent Technologies UK Ltd" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agilent Technologies UK Ltd" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agilent Technologies UK Ltd" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agilent Technologies UK Ltd" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agilent Technologies UK Ltd" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agilent Technologies UK Ltd" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agilent Technologies UK Ltd" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agilent Technologies UK Ltd" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agilent Technologies UK Ltd" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agilent Technologies UK Ltd" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lumora Ltd" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aberystwyth University" target="Technology Strategy Board">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Pulse Medical Technologies Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technology Strategy Board" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pulse Medical Technologies Ltd" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pulse Medical Technologies Ltd" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pulse Medical Technologies Ltd" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pulse Medical Technologies Ltd" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pulse Medical Technologies Ltd" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pulse Medical Technologies Ltd" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pulse Medical Technologies Ltd" target="New-Food Innovation">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pulse Medical Technologies Ltd" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pulse Medical Technologies Ltd" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="New-Food Innovation" target="University of Sheffield">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="New-Food Innovation" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="New-Food Innovation" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="New-Food Innovation" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="New-Food Innovation" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="New-Food Innovation" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="New-Food Innovation" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="New-Food Innovation" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="GlaxoSmithKline PLC">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GlaxoSmithKline PLC" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GlaxoSmithKline PLC" target="Oil Plus Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GlaxoSmithKline PLC" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GlaxoSmithKline PLC" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GlaxoSmithKline PLC" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GlaxoSmithKline PLC" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oil Plus Ltd" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oil Plus Ltd" target="University of Birmingham">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oil Plus Ltd" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oil Plus Ltd" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Oil Plus Ltd" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="Suterra UK">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Suterra UK" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Suterra UK" target="Swansea University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Suterra UK" target="University of Cambridge">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Cambridge" target="Cardiff University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ReInnervate Ltd" target="Ruskinn Technology Ltd">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ReInnervate Ltd" target="Durham University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ruskinn Technology Ltd" target="Durham University">
+      <data key="d2">Life Sciences</data>
+      <data key="d3">1</data>
+    </edge>
+  </graph>
+</graphml>

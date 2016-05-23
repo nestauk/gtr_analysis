@@ -1,0 +1,773 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d3" />
+  <key attr.name="topic_classified" attr.type="string" for="edge" id="d2" />
+  <key attr.name="country" attr.type="string" for="node" id="d1" />
+  <key attr.name="lad" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="University of Bristol">
+      <data key="d0">Bristol, City of</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The University of Manchester">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="National Space Centre">
+      <data key="d0">Leicester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Oxford">
+      <data key="d0">Oxford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Zeeko Ltd">
+      <data key="d0">North West Leicestershire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Southampton">
+      <data key="d0">Southampton</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Glasgow">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="National Instruments Corp (UK) Ltd">
+      <data key="d0">West Berkshire</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Lablogic Systems Limited">
+      <data key="d0">Sheffield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Hertfordshire">
+      <data key="d0">Welwyn Hatfield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Reading">
+      <data key="d0">Wokingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Central Lancashire">
+      <data key="d0">Preston</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Sussex">
+      <data key="d0">Brighton and Hove</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Rhyal Engineering Ltd">
+      <data key="d0">Pembrokeshire</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University College London">
+      <data key="d0">Camden</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Open University">
+      <data key="d0">Milton Keynes</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Netherlands Institute for Radio Astronomy">
+      <data key="d0">Charnwood</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Carnegie Institution for Science (CIS)">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Technodyne International Ltd">
+      <data key="d0">Eastleigh</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="High Tech Tubes Ltd.">
+      <data key="d0">Elmbridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Australian National University (ANU)">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Alan Auld Group Ltd">
+      <data key="d0">Doncaster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Swagelok London">
+      <data key="d0">Three Rivers</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Sheffield">
+      <data key="d0">Sheffield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="The Natural History Museum">
+      <data key="d0">Kensington and Chelsea</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Manchester">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Liverpool John Moores University">
+      <data key="d0">Liverpool</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="OpTIC Glyndwr Ltd">
+      <data key="d0">Denbighshire</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Nu Instruments Ltd">
+      <data key="d0">Wrexham</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="University of Birmingham">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Nottingham">
+      <data key="d0">Nottingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="QinetiQ Ltd">
+      <data key="d0">Rushmoor</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="e2v technologies plc">
+      <data key="d0">Chelmsford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="ET Enterprises Limited">
+      <data key="d0">Hillingdon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Cambridge">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of St Andrews">
+      <data key="d0">Fife</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="VBC Group">
+      <data key="d0">Charnwood</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="SeeScience">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="STFC - Laboratories">
+      <data key="d0">Vale of White Horse</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Durham University">
+      <data key="d0">County Durham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Science Made Simple">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Cardiff University">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <edge source="University of Bristol" target="Carnegie Institution for Science (CIS)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Australian National University (ANU)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Liverpool John Moores University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="University of Central Lancashire">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="University of Sussex">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="University of Oxford">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="STFC - Laboratories">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Nu Instruments Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The University of Manchester" target="Open University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Space Centre" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Space Centre" target="SeeScience">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="The Natural History Museum">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="STFC - Laboratories">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Nu Instruments Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Open University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Zeeko Ltd" target="OpTIC Glyndwr Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Zeeko Ltd" target="University College London">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="University of Cambridge">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Southampton" target="Netherlands Institute for Radio Astronomy">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Southampton" target="University of Manchester">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="Netherlands Institute for Radio Astronomy">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Manchester">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="National Instruments Corp (UK) Ltd" target="University of Sheffield">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Instruments Corp (UK) Ltd" target="e2v technologies plc">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Instruments Corp (UK) Ltd" target="Rhyal Engineering Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Instruments Corp (UK) Ltd" target="Swagelok London">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Instruments Corp (UK) Ltd" target="High Tech Tubes Ltd.">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Instruments Corp (UK) Ltd" target="ET Enterprises Limited">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Instruments Corp (UK) Ltd" target="Lablogic Systems Limited">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Instruments Corp (UK) Ltd" target="QinetiQ Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Instruments Corp (UK) Ltd" target="Alan Auld Group Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Instruments Corp (UK) Ltd" target="Technodyne International Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="National Instruments Corp (UK) Ltd" target="VBC Group">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lablogic Systems Limited" target="High Tech Tubes Ltd.">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lablogic Systems Limited" target="Technodyne International Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lablogic Systems Limited" target="University of Sheffield">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lablogic Systems Limited" target="e2v technologies plc">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lablogic Systems Limited" target="ET Enterprises Limited">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lablogic Systems Limited" target="Rhyal Engineering Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lablogic Systems Limited" target="QinetiQ Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lablogic Systems Limited" target="Alan Auld Group Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lablogic Systems Limited" target="Swagelok London">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Lablogic Systems Limited" target="VBC Group">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Hertfordshire" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Reading" target="The Natural History Museum">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Reading" target="STFC - Laboratories">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Reading" target="Nu Instruments Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Reading" target="Open University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Liverpool John Moores University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Australian National University (ANU)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Carnegie Institution for Science (CIS)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="University of Sussex">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="University of St Andrews">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="University of Birmingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Liverpool John Moores University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Carnegie Institution for Science (CIS)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="University of Birmingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Australian National University (ANU)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="University of St Andrews">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rhyal Engineering Ltd" target="High Tech Tubes Ltd.">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rhyal Engineering Ltd" target="Technodyne International Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rhyal Engineering Ltd" target="University of Sheffield">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rhyal Engineering Ltd" target="e2v technologies plc">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rhyal Engineering Ltd" target="ET Enterprises Limited">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rhyal Engineering Ltd" target="QinetiQ Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rhyal Engineering Ltd" target="Alan Auld Group Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rhyal Engineering Ltd" target="Swagelok London">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Rhyal Engineering Ltd" target="VBC Group">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="STFC - Laboratories">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="Nu Instruments Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Open University" target="The Natural History Museum">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Netherlands Institute for Radio Astronomy" target="University of Manchester">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Netherlands Institute for Radio Astronomy" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Netherlands Institute for Radio Astronomy" target="University of Cambridge">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="Liverpool John Moores University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="Australian National University (ANU)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="University of St Andrews">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="University of Birmingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technodyne International Ltd" target="High Tech Tubes Ltd.">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technodyne International Ltd" target="University of Sheffield">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technodyne International Ltd" target="e2v technologies plc">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technodyne International Ltd" target="ET Enterprises Limited">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technodyne International Ltd" target="QinetiQ Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technodyne International Ltd" target="Alan Auld Group Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technodyne International Ltd" target="Swagelok London">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Technodyne International Ltd" target="VBC Group">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="High Tech Tubes Ltd." target="University of Sheffield">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="High Tech Tubes Ltd." target="e2v technologies plc">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="High Tech Tubes Ltd." target="ET Enterprises Limited">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="High Tech Tubes Ltd." target="QinetiQ Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="High Tech Tubes Ltd." target="Alan Auld Group Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="High Tech Tubes Ltd." target="Swagelok London">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="High Tech Tubes Ltd." target="VBC Group">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Australian National University (ANU)" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Australian National University (ANU)" target="Liverpool John Moores University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Australian National University (ANU)" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Australian National University (ANU)" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Australian National University (ANU)" target="University of St Andrews">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Australian National University (ANU)" target="University of Birmingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Alan Auld Group Ltd" target="University of Sheffield">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Alan Auld Group Ltd" target="e2v technologies plc">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Alan Auld Group Ltd" target="ET Enterprises Limited">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Alan Auld Group Ltd" target="QinetiQ Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Alan Auld Group Ltd" target="Swagelok London">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Alan Auld Group Ltd" target="VBC Group">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Swagelok London" target="University of Sheffield">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Swagelok London" target="e2v technologies plc">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Swagelok London" target="ET Enterprises Limited">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Swagelok London" target="QinetiQ Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Swagelok London" target="VBC Group">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="QinetiQ Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="VBC Group">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="e2v technologies plc">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sheffield" target="ET Enterprises Limited">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Natural History Museum" target="STFC - Laboratories">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Natural History Museum" target="Nu Instruments Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Manchester" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Manchester" target="University of Cambridge">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Liverpool John Moores University" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Liverpool John Moores University" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Liverpool John Moores University" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Liverpool John Moores University" target="University of St Andrews">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Liverpool John Moores University" target="University of Birmingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nu Instruments Ltd" target="STFC - Laboratories">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="University of St Andrews">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Nottingham" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Nottingham" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="QinetiQ Ltd" target="e2v technologies plc">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="QinetiQ Ltd" target="ET Enterprises Limited">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="QinetiQ Ltd" target="VBC Group">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="e2v technologies plc" target="ET Enterprises Limited">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="e2v technologies plc" target="VBC Group">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ET Enterprises Limited" target="VBC Group">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Cambridge" target="Science Made Simple">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SeeScience" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Science Made Simple" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+  </graph>
+</graphml>

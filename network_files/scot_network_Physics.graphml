@@ -1,0 +1,565 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d3" />
+  <key attr.name="topic_classified" attr.type="string" for="edge" id="d2" />
+  <key attr.name="country" attr.type="string" for="node" id="d1" />
+  <key attr.name="lad" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="University of St Andrews">
+      <data key="d0">Fife</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Durham Scientific Crystals Ltd">
+      <data key="d0">County Durham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Natural History Museum">
+      <data key="d0">Dacorum</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Exeter">
+      <data key="d0">Exeter</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Southampton">
+      <data key="d0">Southampton</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Glasgow">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Jeol UK Ltd">
+      <data key="d0">Welwyn Hatfield</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scottish Universities Env Research Cen">
+      <data key="d0">South Lanarkshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Central Lancashire">
+      <data key="d0">Preston</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Sussex">
+      <data key="d0">Brighton and Hove</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Hunterian Museum and Art Gallery">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Glasgow Science Centre Ltd">
+      <data key="d0">Glasgow City</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Birmingham">
+      <data key="d0">Birmingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Selex-Galileo">
+      <data key="d0">Basildon</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Netherlands Institute for Radio Astronomy">
+      <data key="d0">Charnwood</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Carnegie Institution for Science (CIS)">
+      <data key="d0">City of London</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Oxford">
+      <data key="d0">Oxford</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Australian National University (ANU)">
+      <data key="d0">Leeds</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Imperial College London">
+      <data key="d0">Westminster</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of the West of Scotland">
+      <data key="d0">Renfrewshire</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="The Natural History Museum">
+      <data key="d0">Kensington and Chelsea</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Scalar Technologies">
+      <data key="d0">West Lothian</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="University of Manchester">
+      <data key="d0">Manchester</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Liverpool John Moores University">
+      <data key="d0">Liverpool</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Nottingham">
+      <data key="d0">Nottingham</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Julich Research Centre">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Pufferfish Ltd">
+      <data key="d0">Gateshead</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Cambridge">
+      <data key="d0">Cambridge</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="NERC British Geological Survey">
+      <data key="d0">Rushcliffe</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Bristol">
+      <data key="d0">Bristol, City of</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="University of Kent">
+      <data key="d0">Canterbury</data>
+      <data key="d1">England</data>
+    </node>
+    <node id="Heriot-Watt University">
+      <data key="d0">City of Edinburgh</data>
+      <data key="d1">Scotland</data>
+    </node>
+    <node id="Cardiff University">
+      <data key="d0">Cardiff</data>
+      <data key="d1">Wales</data>
+    </node>
+    <node id="Durham University">
+      <data key="d0">County Durham</data>
+      <data key="d1">England</data>
+    </node>
+    <edge source="University of St Andrews" target="Carnegie Institution for Science (CIS)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Australian National University (ANU)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Bristol">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Sussex">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Liverpool John Moores University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Exeter">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Central Lancashire">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of St Andrews" target="University of Birmingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Durham Scientific Crystals Ltd" target="University of Glasgow">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural History Museum" target="Pufferfish Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural History Museum" target="The Natural History Museum">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural History Museum" target="Jeol UK Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural History Museum" target="Hunterian Museum and Art Gallery">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural History Museum" target="NERC British Geological Survey">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural History Museum" target="University of Glasgow">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Natural History Museum" target="Glasgow Science Centre Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Southampton" target="University of Cambridge">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Southampton" target="Netherlands Institute for Radio Astronomy">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Southampton" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="Netherlands Institute for Radio Astronomy">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Central Lancashire">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Pufferfish Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="NERC British Geological Survey">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Kent">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Glasgow Science Centre Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="University of Manchester">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Glasgow" target="Scottish Universities Env Research Cen">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Glasgow" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Jeol UK Ltd" target="Pufferfish Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Jeol UK Ltd" target="The Natural History Museum">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Jeol UK Ltd" target="Hunterian Museum and Art Gallery">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Jeol UK Ltd" target="NERC British Geological Survey">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Jeol UK Ltd" target="Glasgow Science Centre Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Universities Env Research Cen" target="The Natural History Museum">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scottish Universities Env Research Cen" target="University of Kent">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="University of Birmingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="University of Sussex">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="University of Bristol">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Liverpool John Moores University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Carnegie Institution for Science (CIS)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Australian National University (ANU)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Central Lancashire" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="University of Bristol">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Liverpool John Moores University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Carnegie Institution for Science (CIS)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Australian National University (ANU)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Sussex" target="University of Birmingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hunterian Museum and Art Gallery" target="Pufferfish Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hunterian Museum and Art Gallery" target="The Natural History Museum">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hunterian Museum and Art Gallery" target="NERC British Geological Survey">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Hunterian Museum and Art Gallery" target="Glasgow Science Centre Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow Science Centre Ltd" target="Pufferfish Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow Science Centre Ltd" target="NERC British Geological Survey">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Glasgow Science Centre Ltd" target="The Natural History Museum">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="Carnegie Institution for Science (CIS)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="Australian National University (ANU)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="Liverpool John Moores University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Birmingham" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Selex-Galileo" target="University of the West of Scotland">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Netherlands Institute for Radio Astronomy" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Netherlands Institute for Radio Astronomy" target="University of Manchester">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Netherlands Institute for Radio Astronomy" target="University of Cambridge">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="University of Bristol">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="Liverpool John Moores University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="Australian National University (ANU)">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Carnegie Institution for Science (CIS)" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="The Natural History Museum">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Oxford" target="Julich Research Centre">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Australian National University (ANU)" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Australian National University (ANU)" target="University of Bristol">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Australian National University (ANU)" target="Liverpool John Moores University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Australian National University (ANU)" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Australian National University (ANU)" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="The Natural History Museum">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Imperial College London" target="Julich Research Centre">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Natural History Museum" target="Pufferfish Ltd">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Natural History Museum" target="University of Kent">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Natural History Museum" target="NERC British Geological Survey">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="The Natural History Museum" target="Julich Research Centre">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Scalar Technologies" target="Heriot-Watt University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Manchester" target="University of Cambridge">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="University of Manchester" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Liverpool John Moores University" target="University of Nottingham">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Liverpool John Moores University" target="University of Bristol">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Liverpool John Moores University" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Liverpool John Moores University" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Nottingham" target="University of Bristol">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Nottingham" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Nottingham" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Pufferfish Ltd" target="NERC British Geological Survey">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="University of Bristol" target="Cardiff University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Heriot-Watt University" target="Heriot-Watt University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cardiff University" target="Durham University">
+      <data key="d2">Physics</data>
+      <data key="d3">1</data>
+    </edge>
+  </graph>
+</graphml>
