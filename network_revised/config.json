@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Juan Mateos-Garcia and James Gardiner"
+  },
+  "text": {
+    "more": "",
+    "intro": "This \"knowledge graph\" shows the connections between research topics in the projects of the Gateway to Research dataset. The nodes are research topics, the links represent tendency to feature in the same projects, their size represents the number of connections with other topics (a proxy for their “centrality” in the network) and the colour, their research domain.\n",
+    "title": "Research topic subject map"
+  },
+  "legend": {
+    "edgeLabel": "Shared projects",
+    "colorLabel": "Research domain",
+    "nodeLabel": "Research topic"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "category",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
