@@ -63,7 +63,7 @@
 		var data;
 
 		function getData() {
-			var this_topic = $("#topicsList").val();
+			var this_topic = 'All Subject Topics';
 			var uni_id = getUniId();
 			var data;
 			$.ajax({
@@ -109,7 +109,7 @@
 				'Social Sciences': 'uni_social_sciences_collab_counts.json'
 			};
 
-			return 'js/' + topics_to_files[$("#topicsList").val()];
+			return 'js/' + topics_to_files['All Subject Topics'];
 		}
 
 		// add topojson to the map
@@ -166,12 +166,6 @@
 		}
 
 		function updateUnis(name) {
-			data = getData();
-			topoLayer.eachLayer(handleLayer);
-			info.selected();
-		}
-
-		function topicChanged() {
 			data = getData();
 			topoLayer.eachLayer(handleLayer);
 			info.selected();
@@ -325,9 +319,9 @@
 				{position: 'topright'}
 			));
 
-			map.addControl(new TopicControl('topicList',
+			/*map.addControl(new TopicControl('topicList',
 				{position: 'topright'}
-			));
+			));*/
 			</script>
 		</body>
 </html>
