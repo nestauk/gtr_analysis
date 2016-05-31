@@ -7,7 +7,7 @@ var config={};
 function GetQueryStringParams(sParam,defaultVal) {
     var sPageURL = ""+window.location;//.search.substring(1);//This might be causing error in Safari?
     if (sPageURL.indexOf("?")==-1) return defaultVal;
-    sPageURL=sPageURL.substr(sPageURL.indexOf("?")+1);    
+    sPageURL=sPageURL.substr(sPageURL.indexOf("?")+1);
     var sURLVariables = sPageURL.split('&');
     for (var i = 0; i < sURLVariables.length; i++) {
         var sParameterName = sURLVariables[i].split('=');
@@ -21,13 +21,13 @@ function GetQueryStringParams(sParam,defaultVal) {
 
 jQuery.getJSON(GetQueryStringParams("config","config.json"), function(data, textStatus, jqXHR) {
 	config=data;
-	
+
 	if (config.type!="network") {
 		//bad config
 		alert("Invalid configuration settings.")
 		return;
 	}
-	
+
 	//As soon as page is ready (and data ready) set up it
 	$(document).ready(setupGUI(config));
 });//End JSON Config load
@@ -45,9 +45,9 @@ Object.size = function(obj) {
 
 function initSigma(config) {
 	var data=config.data
-	
+
 	var drawProps, graphProps,mouseProps;
-	if (config.sigma && config.sigma.drawingProperties) 
+	if (config.sigma && config.sigma.drawingProperties)
 		drawProps=config.sigma.drawingProperties;
 	else
 		drawProps={
@@ -62,8 +62,8 @@ function initSigma(config) {
         fontStyle: "bold",
         activeFontStyle: "bold"
     };
-    
-    if (config.sigma && config.sigma.graphProperties)	
+
+    if (config.sigma && config.sigma.graphProperties)
     	graphProps=config.sigma.graphProperties;
     else
     	graphProps={
@@ -72,15 +72,15 @@ function initSigma(config) {
         minEdgeSize: 0.2,
         maxEdgeSize: 0.5
     	};
-	
-	if (config.sigma && config.sigma.mouseProperties) 
+
+	if (config.sigma && config.sigma.mouseProperties)
 		mouseProps=config.sigma.mouseProperties;
 	else
 		mouseProps={
         minRatio: 0.75, // How far can we zoom out?
         maxRatio: 20, // How far can we zoom in?
     	};
-	
+
     var a = sigma.init(document.getElementById("sigma-canvas")).drawingProperties(drawProps).graphProperties(graphProps).mouseProperties(mouseProps);
     sigInst = a;
     a.active = !1;
@@ -94,15 +94,15 @@ function initSigma(config) {
 		a.iterNodes(
 			function (b) { //This is where we populate the array used for the group select box
 
-				// note: index may not be consistent for all nodes. Should calculate each time. 
+				// note: index may not be consistent for all nodes. Should calculate each time.
 				 // alert(JSON.stringify(b.attr.attributes[5].val));
 				// alert(b.x);
 				a.clusters[b.color] || (a.clusters[b.color] = []);
 				a.clusters[b.color].push(b.id);//SAH: push id not label
 			}
-		
+
 		);
-	
+
 		a.bind("upnodes", function (a) {
 		    nodeActive(a.content[0])
 		});
@@ -203,7 +203,7 @@ function setupGUI(config) {
 
 function configSigmaElements(config) {
 	$GP=config.GP;
-    
+
     // Node hover behaviour
     if (config.features.hoverBehavior == "dim") {
 
@@ -275,9 +275,20 @@ function configSigmaElements(config) {
     }
     $GP.bg = $(sigInst._core.domElements.bg);
     $GP.bg2 = $(sigInst._core.domElements.bg2);
+
+    var groups = [
+      'Arts and Humanities',
+      'Social Sciences',
+      'Environmental Sciences',
+      'Engineering and Technology',
+      'Life Sciences',
+      'Physics',
+      'Mathematics & Computing'
+    ]
     var a = [],
-        b,x=1;
-		for (b in sigInst.clusters) a.push('<div style="line-height:12px"><a href="#' + b + '"><div style="width:40px;height:12px;border:1px solid #fff;background:' + b + ';display:inline-block"></div> Group ' + (x++) + ' (' + sigInst.clusters[b].length + ' members)</a></div>');
+        b=1;
+        x=0;
+		for (b in sigInst.clusters) a.push('<div style="line-height:12px"><a href="#' + b + '"><div style="width:40px;height:12px;border:1px solid #fff;background:' + b + ';display:inline-block"></div> ' + (groups[x++]) + ' (' + sigInst.clusters[b].length + ' members)</a></div>');
     //a.sort();
     $GP.cluster.content(a.join(""));
     b = {
@@ -294,7 +305,7 @@ function configSigmaElements(config) {
 				sigInst.position(0,0,1).draw();
 			} else {
 		        var a = sigInst._core;
-	            sigInst.zoomTo(a.domElements.nodes.width / 2, a.domElements.nodes.height / 2, a.mousecaptor.ratio * ("in" == b ? 1.5 : 0.5));		
+	            sigInst.zoomTo(a.domElements.nodes.width / 2, a.domElements.nodes.height / 2, a.mousecaptor.ratio * ("in" == b ? 1.5 : 0.5));
 			}
 
         })
@@ -384,7 +395,7 @@ function Search(a) {
             1 < a.length && this.results.html(a.join(""));
            }
         if(c.length!=1) this.results.show();
-        if(c.length==1) this.results.hide();   
+        if(c.length==1) this.results.hide();
     }
 }
 
@@ -438,7 +449,7 @@ function nodeActive(a) {
 
 	var groupByDirection=false;
 	if (config.informationPanel.groupByEdgeDirection && config.informationPanel.groupByEdgeDirection==true)	groupByDirection=true;
-	
+
     sigInst.neighbors = {};
     sigInst.detail = !0;
     var b = sigInst._core.graph.nodesIndex[a];
@@ -447,12 +458,12 @@ function nodeActive(a) {
     sigInst.iterEdges(function (b) {
         b.attr.lineWidth = !1;
         b.hidden = !0;
-        
+
         n={
             name: b.label,
             colour: b.color
         };
-        
+
    	   if (a==b.source) outgoing[b.target]=n;		//SAH
 	   else if (a==b.target) incoming[b.source]=n;		//SAH
        if (a == b.source || a == b.target) sigInst.neighbors[a == b.target ? b.source : b.target] = n;
@@ -464,7 +475,7 @@ function nodeActive(a) {
         a.attr.lineWidth = !1;
         a.attr.color = a.color
     });
-    
+
     if (groupByDirection) {
 		//SAH - Compute intersection for mutual and remove these from incoming/outgoing
 		for (e in outgoing) {
@@ -476,7 +487,7 @@ function nodeActive(a) {
 			}
 		}
     }
-    
+
     var createList=function(c) {
         var f = [];
     	var e = [],
@@ -512,17 +523,17 @@ function nodeActive(a) {
 		}
 		return f;
 	}
-	
+
 	/*console.log("mutual:");
 	console.log(mutual);
 	console.log("incoming:");
 	console.log(incoming);
 	console.log("outgoing:");
 	console.log(outgoing);*/
-	
-	
+
+
 	var f=[];
-	
+
 	//console.log("neighbors:");
 	//console.log(sigInst.neighbors);
 
