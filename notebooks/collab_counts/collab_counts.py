@@ -75,7 +75,7 @@ for uni in uni_id:
     lad_counts[uni] = Counter()
     for proj in uni_projects[uni]:
         lad_counts[uni] += proj['lad_count']
-    del lad_counts[uni][uni_lad]
+
 with open('uni_collab_counts.json', 'w') as f:
     json.dump(lad_counts, f)
 
@@ -87,6 +87,6 @@ for topic in topics:
         for proj in uni_projects[uni]:
             if proj['topics'] == topic:
                 lad_counts[uni] += proj['lad_count']
-        del lad_counts[uni][uni_lad]
+
     with open('uni_{}_collab_counts.json'.format(str.lower(topic).replace(' ', '_')), 'w') as f:
         json.dump(lad_counts, f)
