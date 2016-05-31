@@ -110,6 +110,9 @@
 			topoLayer.addData(topoData);
 			data = getData();
 			topoLayer.eachLayer(handleLayer);
+			topoLayer.getAttribution = function() {
+				return '&copy; Crown copyright and database rights 2016 Ordnance Survey.';
+			};
 			topoLayer.addTo(map);
 		}
 		// Handle mouseover mouseout events
