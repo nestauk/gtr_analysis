@@ -1,0 +1,5 @@
+*~
+*.pydict
+old/
+*json
+*config
